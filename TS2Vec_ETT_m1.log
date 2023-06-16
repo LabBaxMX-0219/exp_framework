@@ -1,0 +1,1886 @@
+nohup: ignoring input
+input cmd is:
+	...python main.py --device cuda:0 --logs_save_dir /home/HaotianF/Exp/Results --experiment_description TS2Vec --method_name TS2Vec --run_description ETT_m1 --training_mode self_supervised --seed 123 --selected_dataset ETT_m1
+
+=============================================
+Dataset: ETT_m1
+Method:  TS2Vec
+Mode:    self_supervised
+=============================================
+Training started ....
+
+Epoch: 1 cost time: 1.1935 s
+Train Loss     : 8.6172
+
+Epoch: 2 cost time: 0.7794 s
+Train Loss     : 5.4691
+
+Epoch: 3 cost time: 0.8081 s
+Train Loss     : 3.5256
+
+Epoch: 4 cost time: 0.7932 s
+Train Loss     : 2.6501
+
+Epoch: 5 cost time: 0.8078 s
+Train Loss     : 2.8080
+Valid Loss     : 2.3351
+Validation loss decreased (inf --> 2.335061).  Saving model ...
+
+Epoch: 6 cost time: 0.8019 s
+Train Loss     : 2.6426
+
+Epoch: 7 cost time: 0.8049 s
+Train Loss     : 2.6287
+
+Epoch: 8 cost time: 0.7961 s
+Train Loss     : 2.5543
+
+Epoch: 9 cost time: 0.8213 s
+Train Loss     : 2.4450
+
+Epoch: 10 cost time: 0.8239 s
+Train Loss     : 2.2050
+Valid Loss     : 1.5775
+Validation loss decreased (2.335061 --> 1.577520).  Saving model ...
+
+Epoch: 11 cost time: 0.8154 s
+Train Loss     : 2.1966
+
+Epoch: 12 cost time: 0.8320 s
+Train Loss     : 2.1565
+
+Epoch: 13 cost time: 0.8775 s
+Train Loss     : 2.1798
+
+Epoch: 14 cost time: 0.8385 s
+Train Loss     : 1.9854
+
+Epoch: 15 cost time: 0.7261 s
+Train Loss     : 2.0055
+Valid Loss     : 1.4683
+Validation loss decreased (1.577520 --> 1.468270).  Saving model ...
+
+Epoch: 16 cost time: 0.8630 s
+Train Loss     : 2.0656
+
+Epoch: 17 cost time: 0.8905 s
+Train Loss     : 2.0107
+
+Epoch: 18 cost time: 0.8879 s
+Train Loss     : 1.8224
+
+Epoch: 19 cost time: 0.8945 s
+Train Loss     : 1.9274
+
+Epoch: 20 cost time: 0.7995 s
+Train Loss     : 1.9089
+Valid Loss     : 2.0674
+EarlyStopping counter: 1 out of 7
+
+Epoch: 21 cost time: 0.9119 s
+Train Loss     : 1.7820
+
+Epoch: 22 cost time: 0.9089 s
+Train Loss     : 1.8401
+
+Epoch: 23 cost time: 0.9216 s
+Train Loss     : 1.8570
+
+Epoch: 24 cost time: 0.9253 s
+Train Loss     : 1.7976
+
+Epoch: 25 cost time: 0.9454 s
+Train Loss     : 1.5960
+Valid Loss     : 2.0344
+EarlyStopping counter: 2 out of 7
+
+Epoch: 26 cost time: 0.9246 s
+Train Loss     : 1.7366
+
+Epoch: 27 cost time: 0.9665 s
+Train Loss     : 1.6420
+
+Epoch: 28 cost time: 0.9383 s
+Train Loss     : 1.6380
+
+Epoch: 29 cost time: 0.9643 s
+Train Loss     : 1.5474
+
+Epoch: 30 cost time: 0.9603 s
+Train Loss     : 1.4852
+Valid Loss     : 3.0029
+EarlyStopping counter: 3 out of 7
+
+Epoch: 31 cost time: 0.8749 s
+Train Loss     : 1.5589
+
+Epoch: 32 cost time: 0.9774 s
+Train Loss     : 1.4635
+
+Epoch: 33 cost time: 0.7817 s
+Train Loss     : 1.5670
+
+Epoch: 34 cost time: 0.9735 s
+Train Loss     : 1.6530
+
+Epoch: 35 cost time: 0.9676 s
+Train Loss     : 1.4969
+Valid Loss     : 2.7053
+EarlyStopping counter: 4 out of 7
+
+Epoch: 36 cost time: 0.9929 s
+Train Loss     : 1.4120
+
+Epoch: 37 cost time: 0.8959 s
+Train Loss     : 1.2999
+
+Epoch: 38 cost time: 1.0314 s
+Train Loss     : 1.3661
+
+Epoch: 39 cost time: 1.0089 s
+Train Loss     : 1.3875
+
+Epoch: 40 cost time: 1.0174 s
+Train Loss     : 1.4421
+Valid Loss     : 2.1346
+EarlyStopping counter: 5 out of 7
+
+Epoch: 41 cost time: 1.0020 s
+Train Loss     : 1.2778
+
+Epoch: 42 cost time: 1.0301 s
+Train Loss     : 1.4216
+
+Epoch: 43 cost time: 0.9331 s
+Train Loss     : 1.2523
+
+Epoch: 44 cost time: 1.0184 s
+Train Loss     : 1.3457
+
+Epoch: 45 cost time: 1.0485 s
+Train Loss     : 1.1745
+Valid Loss     : 1.7221
+EarlyStopping counter: 6 out of 7
+
+Epoch: 46 cost time: 1.0239 s
+Train Loss     : 1.4282
+
+Epoch: 47 cost time: 0.9217 s
+Train Loss     : 1.2151
+
+Epoch: 48 cost time: 1.0614 s
+Train Loss     : 1.3338
+
+Epoch: 49 cost time: 1.0528 s
+Train Loss     : 1.2186
+
+Epoch: 50 cost time: 0.9955 s
+Train Loss     : 1.1550
+Valid Loss     : 2.4568
+EarlyStopping counter: 7 out of 7
+
+Early stopping
+
+################## Training is Done! #########################
+Training time is : 0:00:50.375455
+
+
+
+nohup: ignoring input
+input cmd is:
+	...python main.py --device cuda:0 --logs_save_dir /home/HaotianF/Exp/Results --experiment_description TS2Vec --method_name TS2Vec --run_description ETT_m1 --training_mode train_linear --seed 123 --selected_dataset ETT_m1
+
+=============================================
+Dataset: ETT_m1
+Method:  TS2Vec
+Mode:    train_linear
+=============================================
+preparing exp...
+
+linear model mounted on device: cuda:0
+
+loading raw time series...
+
+generate time series samples...
+
+time series batch encoding..
+
+Training started ....
+
+Epoch: 1 cost time: 0.4773 s
+Train MSE Loss*    : 0.4474 | Train MAE Loss     : 0.4748
+
+Epoch: 2 cost time: 0.4092 s
+Train MSE Loss*    : 0.2739 | Train MAE Loss     : 0.3679
+
+Epoch: 3 cost time: 0.4046 s
+Train MSE Loss*    : 0.2541 | Train MAE Loss     : 0.3476
+
+Epoch: 4 cost time: 0.3440 s
+Train MSE Loss*    : 0.2478 | Train MAE Loss     : 0.3416
+
+Epoch: 5 cost time: 0.4170 s
+Train MSE Loss*    : 0.2434 | Train MAE Loss     : 0.3383
+Valid MSE Loss*     : 0.2434 | Valid MAE Loss     : 0.3794
+Validation loss decreased (inf --> 0.243400).  Saving model ...
+
+Epoch: 6 cost time: 0.4045 s
+Train MSE Loss*    : 0.2399 | Train MAE Loss     : 0.3359
+
+Epoch: 7 cost time: 0.3937 s
+Train MSE Loss*    : 0.2369 | Train MAE Loss     : 0.3340
+
+Epoch: 8 cost time: 0.3677 s
+Train MSE Loss*    : 0.2343 | Train MAE Loss     : 0.3319
+
+Epoch: 9 cost time: 0.4048 s
+Train MSE Loss*    : 0.2322 | Train MAE Loss     : 0.3306
+
+Epoch: 10 cost time: 0.3920 s
+Train MSE Loss*    : 0.2303 | Train MAE Loss     : 0.3298
+Valid MSE Loss*     : 0.2303 | Valid MAE Loss     : 0.371
+Validation loss decreased (0.243400 --> 0.230300).  Saving model ...
+
+Epoch: 11 cost time: 0.3951 s
+Train MSE Loss*    : 0.2287 | Train MAE Loss     : 0.3285
+
+Epoch: 12 cost time: 0.4050 s
+Train MSE Loss*    : 0.2274 | Train MAE Loss     : 0.3279
+
+Epoch: 13 cost time: 0.3383 s
+Train MSE Loss*    : 0.2258 | Train MAE Loss     : 0.3267
+
+Epoch: 14 cost time: 0.3890 s
+Train MSE Loss*    : 0.2248 | Train MAE Loss     : 0.3262
+
+Epoch: 15 cost time: 0.3872 s
+Train MSE Loss*    : 0.2239 | Train MAE Loss     : 0.3254
+Valid MSE Loss*     : 0.2239 | Valid MAE Loss     : 0.3688
+Validation loss decreased (0.230300 --> 0.223900).  Saving model ...
+
+Epoch: 16 cost time: 0.3946 s
+Train MSE Loss*    : 0.2229 | Train MAE Loss     : 0.3251
+
+Epoch: 17 cost time: 0.3302 s
+Train MSE Loss*    : 0.2221 | Train MAE Loss     : 0.3246
+
+Epoch: 18 cost time: 0.3884 s
+Train MSE Loss*    : 0.2214 | Train MAE Loss     : 0.3241
+
+Epoch: 19 cost time: 0.3870 s
+Train MSE Loss*    : 0.2207 | Train MAE Loss     : 0.3236
+
+Epoch: 20 cost time: 0.3328 s
+Train MSE Loss*    : 0.2200 | Train MAE Loss     : 0.3234
+Valid MSE Loss*     : 0.2200 | Valid MAE Loss     : 0.3659
+Validation loss decreased (0.223900 --> 0.220000).  Saving model ...
+
+Epoch: 21 cost time: 0.3938 s
+Train MSE Loss*    : 0.2198 | Train MAE Loss     : 0.3232
+
+Epoch: 22 cost time: 0.3391 s
+Train MSE Loss*    : 0.2190 | Train MAE Loss     : 0.3225
+
+Epoch: 23 cost time: 0.3875 s
+Train MSE Loss*    : 0.2185 | Train MAE Loss     : 0.3225
+
+Epoch: 24 cost time: 0.4034 s
+Train MSE Loss*    : 0.2179 | Train MAE Loss     : 0.3220
+
+Epoch: 25 cost time: 0.3350 s
+Train MSE Loss*    : 0.2174 | Train MAE Loss     : 0.3218
+Valid MSE Loss*     : 0.2174 | Valid MAE Loss     : 0.3668
+Validation loss decreased (0.220000 --> 0.217400).  Saving model ...
+
+Epoch: 26 cost time: 0.3370 s
+Train MSE Loss*    : 0.2170 | Train MAE Loss     : 0.3214
+
+Epoch: 27 cost time: 0.3908 s
+Train MSE Loss*    : 0.2165 | Train MAE Loss     : 0.3212
+
+Epoch: 28 cost time: 0.3912 s
+Train MSE Loss*    : 0.2161 | Train MAE Loss     : 0.3207
+
+Epoch: 29 cost time: 0.3363 s
+Train MSE Loss*    : 0.2155 | Train MAE Loss     : 0.3206
+
+Epoch: 30 cost time: 0.3920 s
+Train MSE Loss*    : 0.2151 | Train MAE Loss     : 0.3202
+Valid MSE Loss*     : 0.2151 | Valid MAE Loss     : 0.3666
+Validation loss decreased (0.217400 --> 0.215100).  Saving model ...
+
+Epoch: 31 cost time: 0.3364 s
+Train MSE Loss*    : 0.2149 | Train MAE Loss     : 0.3201
+
+Epoch: 32 cost time: 0.3891 s
+Train MSE Loss*    : 0.2146 | Train MAE Loss     : 0.3198
+
+Epoch: 33 cost time: 0.3354 s
+Train MSE Loss*    : 0.2146 | Train MAE Loss     : 0.3200
+
+Epoch: 34 cost time: 0.4033 s
+Train MSE Loss*    : 0.2143 | Train MAE Loss     : 0.3197
+
+Epoch: 35 cost time: 0.3905 s
+Train MSE Loss*    : 0.2140 | Train MAE Loss     : 0.3194
+Valid MSE Loss*     : 0.2140 | Valid MAE Loss     : 0.3674
+Validation loss decreased (0.215100 --> 0.214000).  Saving model ...
+
+Epoch: 36 cost time: 0.3935 s
+Train MSE Loss*    : 0.2136 | Train MAE Loss     : 0.3193
+
+Epoch: 37 cost time: 0.4006 s
+Train MSE Loss*    : 0.2136 | Train MAE Loss     : 0.3194
+
+Epoch: 38 cost time: 0.3344 s
+Train MSE Loss*    : 0.2134 | Train MAE Loss     : 0.3191
+
+Epoch: 39 cost time: 0.3912 s
+Train MSE Loss*    : 0.2130 | Train MAE Loss     : 0.3188
+
+Epoch: 40 cost time: 0.4066 s
+Train MSE Loss*    : 0.2126 | Train MAE Loss     : 0.3184
+Valid MSE Loss*     : 0.2126 | Valid MAE Loss     : 0.3663
+Validation loss decreased (0.214000 --> 0.212600).  Saving model ...
+
+Epoch: 41 cost time: 0.3871 s
+Train MSE Loss*    : 0.2125 | Train MAE Loss     : 0.3186
+
+Epoch: 42 cost time: 0.3290 s
+Train MSE Loss*    : 0.2121 | Train MAE Loss     : 0.3183
+
+Epoch: 43 cost time: 0.3845 s
+Train MSE Loss*    : 0.2117 | Train MAE Loss     : 0.3180
+
+Epoch: 44 cost time: 0.3862 s
+Train MSE Loss*    : 0.2115 | Train MAE Loss     : 0.3178
+
+Epoch: 45 cost time: 0.3319 s
+Train MSE Loss*    : 0.2117 | Train MAE Loss     : 0.3180
+Valid MSE Loss*     : 0.2117 | Valid MAE Loss     : 0.3626
+Validation loss decreased (0.212600 --> 0.211700).  Saving model ...
+
+Epoch: 46 cost time: 0.3881 s
+Train MSE Loss*    : 0.2111 | Train MAE Loss     : 0.3176
+
+Epoch: 47 cost time: 0.3278 s
+Train MSE Loss*    : 0.2113 | Train MAE Loss     : 0.3177
+
+Epoch: 48 cost time: 0.3860 s
+Train MSE Loss*    : 0.2113 | Train MAE Loss     : 0.3178
+
+Epoch: 49 cost time: 0.3851 s
+Train MSE Loss*    : 0.2108 | Train MAE Loss     : 0.3175
+
+Epoch: 50 cost time: 0.3432 s
+Train MSE Loss*    : 0.2110 | Train MAE Loss     : 0.3175
+Valid MSE Loss*     : 0.2110 | Valid MAE Loss     : 0.3648
+Validation loss decreased (0.211700 --> 0.211000).  Saving model ...
+
+Epoch: 51 cost time: 0.3880 s
+Train MSE Loss*    : 0.2106 | Train MAE Loss     : 0.3175
+
+Epoch: 52 cost time: 0.3385 s
+Train MSE Loss*    : 0.2105 | Train MAE Loss     : 0.3173
+
+Epoch: 53 cost time: 0.3841 s
+Train MSE Loss*    : 0.2104 | Train MAE Loss     : 0.3171
+
+Epoch: 54 cost time: 0.3286 s
+Train MSE Loss*    : 0.2101 | Train MAE Loss     : 0.3169
+
+Epoch: 55 cost time: 0.3889 s
+Train MSE Loss*    : 0.2100 | Train MAE Loss     : 0.3170
+Valid MSE Loss*     : 0.2100 | Valid MAE Loss     : 0.3608
+Validation loss decreased (0.211000 --> 0.210000).  Saving model ...
+
+Epoch: 56 cost time: 0.3399 s
+Train MSE Loss*    : 0.2097 | Train MAE Loss     : 0.3165
+
+Epoch: 57 cost time: 0.3912 s
+Train MSE Loss*    : 0.2099 | Train MAE Loss     : 0.3168
+
+Epoch: 58 cost time: 0.3898 s
+Train MSE Loss*    : 0.2098 | Train MAE Loss     : 0.3168
+
+Epoch: 59 cost time: 0.3371 s
+Train MSE Loss*    : 0.2093 | Train MAE Loss     : 0.3164
+
+Epoch: 60 cost time: 0.4045 s
+Train MSE Loss*    : 0.2097 | Train MAE Loss     : 0.3168
+Valid MSE Loss*     : 0.2097 | Valid MAE Loss     : 0.3663
+Validation loss decreased (0.210000 --> 0.209700).  Saving model ...
+
+Epoch: 61 cost time: 0.3930 s
+Train MSE Loss*    : 0.2091 | Train MAE Loss     : 0.3164
+
+Epoch: 62 cost time: 0.3894 s
+Train MSE Loss*    : 0.2094 | Train MAE Loss     : 0.3166
+
+Epoch: 63 cost time: 0.3342 s
+Train MSE Loss*    : 0.2093 | Train MAE Loss     : 0.3163
+
+Epoch: 64 cost time: 0.3915 s
+Train MSE Loss*    : 0.2092 | Train MAE Loss     : 0.3165
+
+Epoch: 65 cost time: 0.3905 s
+Train MSE Loss*    : 0.2089 | Train MAE Loss     : 0.3162
+Valid MSE Loss*     : 0.2089 | Valid MAE Loss     : 0.364
+Validation loss decreased (0.209700 --> 0.208900).  Saving model ...
+
+Epoch: 66 cost time: 0.3935 s
+Train MSE Loss*    : 0.2091 | Train MAE Loss     : 0.3164
+
+Epoch: 67 cost time: 0.3932 s
+Train MSE Loss*    : 0.2088 | Train MAE Loss     : 0.3160
+
+Epoch: 68 cost time: 0.3342 s
+Train MSE Loss*    : 0.2085 | Train MAE Loss     : 0.3159
+
+Epoch: 69 cost time: 0.3901 s
+Train MSE Loss*    : 0.2084 | Train MAE Loss     : 0.3159
+
+Epoch: 70 cost time: 0.3922 s
+Train MSE Loss*    : 0.2082 | Train MAE Loss     : 0.3157
+Valid MSE Loss*     : 0.2082 | Valid MAE Loss     : 0.3593
+Validation loss decreased (0.208900 --> 0.208200).  Saving model ...
+
+Epoch: 71 cost time: 0.3958 s
+Train MSE Loss*    : 0.2084 | Train MAE Loss     : 0.3157
+
+Epoch: 72 cost time: 0.3326 s
+Train MSE Loss*    : 0.2082 | Train MAE Loss     : 0.3158
+
+Epoch: 73 cost time: 0.3899 s
+Train MSE Loss*    : 0.2082 | Train MAE Loss     : 0.3156
+
+Epoch: 74 cost time: 0.3910 s
+Train MSE Loss*    : 0.2080 | Train MAE Loss     : 0.3155
+
+Epoch: 75 cost time: 0.3334 s
+Train MSE Loss*    : 0.2080 | Train MAE Loss     : 0.3157
+Valid MSE Loss*     : 0.2080 | Valid MAE Loss     : 0.3693
+Validation loss decreased (0.208200 --> 0.208000).  Saving model ...
+
+Epoch: 76 cost time: 0.3946 s
+Train MSE Loss*    : 0.2081 | Train MAE Loss     : 0.3157
+
+Epoch: 77 cost time: 0.3321 s
+Train MSE Loss*    : 0.2077 | Train MAE Loss     : 0.3152
+
+Epoch: 78 cost time: 0.3901 s
+Train MSE Loss*    : 0.2078 | Train MAE Loss     : 0.3153
+
+Epoch: 79 cost time: 0.4025 s
+Train MSE Loss*    : 0.2074 | Train MAE Loss     : 0.3152
+
+Epoch: 80 cost time: 0.3341 s
+Train MSE Loss*    : 0.2073 | Train MAE Loss     : 0.3153
+Valid MSE Loss*     : 0.2073 | Valid MAE Loss     : 0.3691
+Validation loss decreased (0.208000 --> 0.207300).  Saving model ...
+
+Epoch: 81 cost time: 0.3344 s
+Train MSE Loss*    : 0.2073 | Train MAE Loss     : 0.3152
+
+Epoch: 82 cost time: 0.3907 s
+Train MSE Loss*    : 0.2074 | Train MAE Loss     : 0.3151
+
+Epoch: 83 cost time: 0.3985 s
+Train MSE Loss*    : 0.2074 | Train MAE Loss     : 0.3152
+
+Epoch: 84 cost time: 0.3370 s
+Train MSE Loss*    : 0.2072 | Train MAE Loss     : 0.3149
+
+Epoch: 85 cost time: 0.3900 s
+Train MSE Loss*    : 0.2072 | Train MAE Loss     : 0.3152
+Valid MSE Loss*     : 0.2072 | Valid MAE Loss     : 0.3624
+Validation loss decreased (0.207300 --> 0.207200).  Saving model ...
+
+Epoch: 86 cost time: 0.3345 s
+Train MSE Loss*    : 0.2073 | Train MAE Loss     : 0.3151
+
+Epoch: 87 cost time: 0.3908 s
+Train MSE Loss*    : 0.2068 | Train MAE Loss     : 0.3145
+
+Epoch: 88 cost time: 0.3514 s
+Train MSE Loss*    : 0.2071 | Train MAE Loss     : 0.3152
+
+Epoch: 89 cost time: 0.3927 s
+Train MSE Loss*    : 0.2069 | Train MAE Loss     : 0.3146
+
+Epoch: 90 cost time: 0.3930 s
+Train MSE Loss*    : 0.2070 | Train MAE Loss     : 0.3152
+Valid MSE Loss*     : 0.2070 | Valid MAE Loss     : 0.3656
+Validation loss decreased (0.207200 --> 0.207000).  Saving model ...
+
+Epoch: 91 cost time: 0.3929 s
+Train MSE Loss*    : 0.2072 | Train MAE Loss     : 0.3151
+
+Epoch: 92 cost time: 0.3907 s
+Train MSE Loss*    : 0.2070 | Train MAE Loss     : 0.3151
+
+Epoch: 93 cost time: 0.3329 s
+Train MSE Loss*    : 0.2069 | Train MAE Loss     : 0.3147
+
+Epoch: 94 cost time: 0.3906 s
+Train MSE Loss*    : 0.2066 | Train MAE Loss     : 0.3145
+
+Epoch: 95 cost time: 0.3917 s
+Train MSE Loss*    : 0.2065 | Train MAE Loss     : 0.3146
+Valid MSE Loss*     : 0.2065 | Valid MAE Loss     : 0.3668
+Validation loss decreased (0.207000 --> 0.206500).  Saving model ...
+
+Epoch: 96 cost time: 0.3943 s
+Train MSE Loss*    : 0.2065 | Train MAE Loss     : 0.3145
+
+Epoch: 97 cost time: 0.3334 s
+Train MSE Loss*    : 0.2066 | Train MAE Loss     : 0.3146
+
+Epoch: 98 cost time: 0.3899 s
+Train MSE Loss*    : 0.2063 | Train MAE Loss     : 0.3144
+
+Epoch: 99 cost time: 0.3892 s
+Train MSE Loss*    : 0.2063 | Train MAE Loss     : 0.3145
+
+Epoch: 100 cost time: 0.3332 s
+Train MSE Loss*    : 0.2063 | Train MAE Loss     : 0.3143
+Valid MSE Loss*     : 0.2063 | Valid MAE Loss     : 0.363
+Validation loss decreased (0.206500 --> 0.206300).  Saving model ...
+
+Epoch: 101 cost time: 0.3969 s
+Train MSE Loss*    : 0.2062 | Train MAE Loss     : 0.3145
+
+Epoch: 102 cost time: 0.3346 s
+Train MSE Loss*    : 0.2061 | Train MAE Loss     : 0.3142
+
+Epoch: 103 cost time: 0.3893 s
+Train MSE Loss*    : 0.2060 | Train MAE Loss     : 0.3141
+
+Epoch: 104 cost time: 0.3905 s
+Train MSE Loss*    : 0.2063 | Train MAE Loss     : 0.3146
+
+Epoch: 105 cost time: 0.3336 s
+Train MSE Loss*    : 0.2060 | Train MAE Loss     : 0.3141
+Valid MSE Loss*     : 0.2060 | Valid MAE Loss     : 0.3649
+Validation loss decreased (0.206300 --> 0.206000).  Saving model ...
+
+Epoch: 106 cost time: 0.3945 s
+Train MSE Loss*    : 0.2059 | Train MAE Loss     : 0.3144
+
+Epoch: 107 cost time: 0.3321 s
+Train MSE Loss*    : 0.2059 | Train MAE Loss     : 0.3142
+
+Epoch: 108 cost time: 0.3919 s
+Train MSE Loss*    : 0.2057 | Train MAE Loss     : 0.3139
+
+Epoch: 109 cost time: 0.3340 s
+Train MSE Loss*    : 0.2057 | Train MAE Loss     : 0.3140
+
+Epoch: 110 cost time: 0.3923 s
+Train MSE Loss*    : 0.2056 | Train MAE Loss     : 0.3139
+Valid MSE Loss*     : 0.2056 | Valid MAE Loss     : 0.3657
+Validation loss decreased (0.206000 --> 0.205600).  Saving model ...
+
+Epoch: 111 cost time: 0.3310 s
+Train MSE Loss*    : 0.2057 | Train MAE Loss     : 0.3140
+
+Epoch: 112 cost time: 0.3903 s
+Train MSE Loss*    : 0.2055 | Train MAE Loss     : 0.3138
+
+Epoch: 113 cost time: 0.3912 s
+Train MSE Loss*    : 0.2057 | Train MAE Loss     : 0.3140
+
+Epoch: 114 cost time: 0.3346 s
+Train MSE Loss*    : 0.2057 | Train MAE Loss     : 0.3140
+
+Epoch: 115 cost time: 0.3927 s
+Train MSE Loss*    : 0.2054 | Train MAE Loss     : 0.3137
+Valid MSE Loss*     : 0.2054 | Valid MAE Loss     : 0.3685
+Validation loss decreased (0.205600 --> 0.205400).  Saving model ...
+
+Epoch: 116 cost time: 0.4015 s
+Train MSE Loss*    : 0.2054 | Train MAE Loss     : 0.3139
+
+Epoch: 117 cost time: 0.3895 s
+Train MSE Loss*    : 0.2053 | Train MAE Loss     : 0.3136
+
+Epoch: 118 cost time: 0.3335 s
+Train MSE Loss*    : 0.2052 | Train MAE Loss     : 0.3136
+
+Epoch: 119 cost time: 0.3914 s
+Train MSE Loss*    : 0.2055 | Train MAE Loss     : 0.3138
+
+Epoch: 120 cost time: 0.3904 s
+Train MSE Loss*    : 0.2053 | Train MAE Loss     : 0.3141
+Valid MSE Loss*     : 0.2053 | Valid MAE Loss     : 0.3644
+EarlyStopping counter: 1 out of 7
+
+Epoch: 121 cost time: 0.3979 s
+Train MSE Loss*    : 0.2053 | Train MAE Loss     : 0.3136
+
+Epoch: 122 cost time: 0.3922 s
+Train MSE Loss*    : 0.2053 | Train MAE Loss     : 0.3137
+
+Epoch: 123 cost time: 0.3378 s
+Train MSE Loss*    : 0.2052 | Train MAE Loss     : 0.3136
+
+Epoch: 124 cost time: 0.3892 s
+Train MSE Loss*    : 0.2053 | Train MAE Loss     : 0.3138
+
+Epoch: 125 cost time: 0.3906 s
+Train MSE Loss*    : 0.2050 | Train MAE Loss     : 0.3135
+Valid MSE Loss*     : 0.2050 | Valid MAE Loss     : 0.3581
+Validation loss decreased (0.205400 --> 0.205000).  Saving model ...
+
+Epoch: 126 cost time: 0.4082 s
+Train MSE Loss*    : 0.2051 | Train MAE Loss     : 0.3134
+
+Epoch: 127 cost time: 0.3334 s
+Train MSE Loss*    : 0.2051 | Train MAE Loss     : 0.3137
+
+Epoch: 128 cost time: 0.3894 s
+Train MSE Loss*    : 0.2050 | Train MAE Loss     : 0.3135
+
+Epoch: 129 cost time: 0.3909 s
+Train MSE Loss*    : 0.2048 | Train MAE Loss     : 0.3135
+
+Epoch: 130 cost time: 0.3331 s
+Train MSE Loss*    : 0.2049 | Train MAE Loss     : 0.3137
+Valid MSE Loss*     : 0.2049 | Valid MAE Loss     : 0.3635
+EarlyStopping counter: 1 out of 7
+
+Epoch: 131 cost time: 0.3945 s
+Train MSE Loss*    : 0.2050 | Train MAE Loss     : 0.3133
+
+Epoch: 132 cost time: 0.3331 s
+Train MSE Loss*    : 0.2047 | Train MAE Loss     : 0.3135
+
+Epoch: 133 cost time: 0.3925 s
+Train MSE Loss*    : 0.2051 | Train MAE Loss     : 0.3136
+
+Epoch: 134 cost time: 0.3915 s
+Train MSE Loss*    : 0.2048 | Train MAE Loss     : 0.3134
+
+Epoch: 135 cost time: 0.3341 s
+Train MSE Loss*    : 0.2047 | Train MAE Loss     : 0.3135
+Valid MSE Loss*     : 0.2047 | Valid MAE Loss     : 0.3652
+Validation loss decreased (0.205000 --> 0.204700).  Saving model ...
+
+Epoch: 136 cost time: 0.3352 s
+Train MSE Loss*    : 0.2047 | Train MAE Loss     : 0.3132
+
+Epoch: 137 cost time: 0.3907 s
+Train MSE Loss*    : 0.2048 | Train MAE Loss     : 0.3135
+
+Epoch: 138 cost time: 0.3906 s
+Train MSE Loss*    : 0.2048 | Train MAE Loss     : 0.3137
+
+Epoch: 139 cost time: 0.3336 s
+Train MSE Loss*    : 0.2048 | Train MAE Loss     : 0.3131
+
+Epoch: 140 cost time: 0.3913 s
+Train MSE Loss*    : 0.2045 | Train MAE Loss     : 0.3135
+Valid MSE Loss*     : 0.2045 | Valid MAE Loss     : 0.3586
+Validation loss decreased (0.204700 --> 0.204500).  Saving model ...
+
+Epoch: 141 cost time: 0.3350 s
+Train MSE Loss*    : 0.2045 | Train MAE Loss     : 0.3132
+
+Epoch: 142 cost time: 0.3897 s
+Train MSE Loss*    : 0.2044 | Train MAE Loss     : 0.3131
+
+Epoch: 143 cost time: 0.3334 s
+Train MSE Loss*    : 0.2045 | Train MAE Loss     : 0.3132
+
+Epoch: 144 cost time: 0.3923 s
+Train MSE Loss*    : 0.2045 | Train MAE Loss     : 0.3133
+
+Epoch: 145 cost time: 0.3916 s
+Train MSE Loss*    : 0.2045 | Train MAE Loss     : 0.3132
+Valid MSE Loss*     : 0.2045 | Valid MAE Loss     : 0.3622
+EarlyStopping counter: 1 out of 7
+
+Epoch: 146 cost time: 0.3897 s
+Train MSE Loss*    : 0.2043 | Train MAE Loss     : 0.3130
+
+Epoch: 147 cost time: 0.3906 s
+Train MSE Loss*    : 0.2045 | Train MAE Loss     : 0.3131
+
+Epoch: 148 cost time: 0.3344 s
+Train MSE Loss*    : 0.2041 | Train MAE Loss     : 0.3130
+
+Epoch: 149 cost time: 0.4067 s
+Train MSE Loss*    : 0.2042 | Train MAE Loss     : 0.3131
+
+Epoch: 150 cost time: 0.3952 s
+Train MSE Loss*    : 0.2042 | Train MAE Loss     : 0.3130
+Valid MSE Loss*     : 0.2042 | Valid MAE Loss     : 0.3644
+Validation loss decreased (0.204500 --> 0.204200).  Saving model ...
+
+Epoch: 151 cost time: 0.3933 s
+Train MSE Loss*    : 0.2041 | Train MAE Loss     : 0.3129
+
+Epoch: 152 cost time: 0.3349 s
+Train MSE Loss*    : 0.2043 | Train MAE Loss     : 0.3130
+
+Epoch: 153 cost time: 0.3905 s
+Train MSE Loss*    : 0.2042 | Train MAE Loss     : 0.3130
+
+Epoch: 154 cost time: 0.3904 s
+Train MSE Loss*    : 0.2042 | Train MAE Loss     : 0.3130
+
+Epoch: 155 cost time: 0.3346 s
+Train MSE Loss*    : 0.2042 | Train MAE Loss     : 0.3130
+Valid MSE Loss*     : 0.2042 | Valid MAE Loss     : 0.3622
+EarlyStopping counter: 1 out of 7
+
+Epoch: 156 cost time: 0.3939 s
+Train MSE Loss*    : 0.2041 | Train MAE Loss     : 0.3129
+
+Epoch: 157 cost time: 0.3329 s
+Train MSE Loss*    : 0.2041 | Train MAE Loss     : 0.3129
+
+Epoch: 158 cost time: 0.3925 s
+Train MSE Loss*    : 0.2041 | Train MAE Loss     : 0.3129
+
+Epoch: 159 cost time: 0.3927 s
+Train MSE Loss*    : 0.2041 | Train MAE Loss     : 0.3131
+
+Epoch: 160 cost time: 0.3343 s
+Train MSE Loss*    : 0.2039 | Train MAE Loss     : 0.3125
+Valid MSE Loss*     : 0.2039 | Valid MAE Loss     : 0.3603
+Validation loss decreased (0.204200 --> 0.203900).  Saving model ...
+
+Epoch: 161 cost time: 0.3938 s
+Train MSE Loss*    : 0.2040 | Train MAE Loss     : 0.3129
+
+Epoch: 162 cost time: 0.3332 s
+Train MSE Loss*    : 0.2038 | Train MAE Loss     : 0.3127
+
+Epoch: 163 cost time: 0.3899 s
+Train MSE Loss*    : 0.2039 | Train MAE Loss     : 0.3128
+
+Epoch: 164 cost time: 0.3356 s
+Train MSE Loss*    : 0.2037 | Train MAE Loss     : 0.3127
+
+Epoch: 165 cost time: 0.3925 s
+Train MSE Loss*    : 0.2037 | Train MAE Loss     : 0.3125
+Valid MSE Loss*     : 0.2037 | Valid MAE Loss     : 0.3592
+Validation loss decreased (0.203900 --> 0.203700).  Saving model ...
+
+Epoch: 166 cost time: 0.3338 s
+Train MSE Loss*    : 0.2037 | Train MAE Loss     : 0.3127
+
+Epoch: 167 cost time: 0.3901 s
+Train MSE Loss*    : 0.2037 | Train MAE Loss     : 0.3127
+
+Epoch: 168 cost time: 0.3915 s
+Train MSE Loss*    : 0.2035 | Train MAE Loss     : 0.3124
+
+Epoch: 169 cost time: 0.3349 s
+Train MSE Loss*    : 0.2037 | Train MAE Loss     : 0.3127
+
+Epoch: 170 cost time: 0.3923 s
+Train MSE Loss*    : 0.2035 | Train MAE Loss     : 0.3125
+Valid MSE Loss*     : 0.2035 | Valid MAE Loss     : 0.3635
+Validation loss decreased (0.203700 --> 0.203500).  Saving model ...
+
+Epoch: 171 cost time: 0.3933 s
+Train MSE Loss*    : 0.2037 | Train MAE Loss     : 0.3126
+
+Epoch: 172 cost time: 0.3925 s
+Train MSE Loss*    : 0.2036 | Train MAE Loss     : 0.3125
+
+Epoch: 173 cost time: 0.3423 s
+Train MSE Loss*    : 0.2034 | Train MAE Loss     : 0.3126
+
+Epoch: 174 cost time: 0.3976 s
+Train MSE Loss*    : 0.2036 | Train MAE Loss     : 0.3125
+
+Epoch: 175 cost time: 0.3911 s
+Train MSE Loss*    : 0.2036 | Train MAE Loss     : 0.3125
+Valid MSE Loss*     : 0.2036 | Valid MAE Loss     : 0.3624
+EarlyStopping counter: 1 out of 7
+
+Epoch: 176 cost time: 0.4050 s
+Train MSE Loss*    : 0.2036 | Train MAE Loss     : 0.3124
+
+Epoch: 177 cost time: 0.3910 s
+Train MSE Loss*    : 0.2036 | Train MAE Loss     : 0.3126
+
+Epoch: 178 cost time: 0.3340 s
+Train MSE Loss*    : 0.2038 | Train MAE Loss     : 0.3127
+
+Epoch: 179 cost time: 0.3898 s
+Train MSE Loss*    : 0.2035 | Train MAE Loss     : 0.3125
+
+Epoch: 180 cost time: 0.3915 s
+Train MSE Loss*    : 0.2034 | Train MAE Loss     : 0.3125
+Valid MSE Loss*     : 0.2034 | Valid MAE Loss     : 0.3624
+EarlyStopping counter: 2 out of 7
+
+Epoch: 181 cost time: 0.3970 s
+Train MSE Loss*    : 0.2034 | Train MAE Loss     : 0.3124
+
+Epoch: 182 cost time: 0.3343 s
+Train MSE Loss*    : 0.2035 | Train MAE Loss     : 0.3124
+
+Epoch: 183 cost time: 0.4009 s
+Train MSE Loss*    : 0.2033 | Train MAE Loss     : 0.3124
+
+Epoch: 184 cost time: 0.3934 s
+Train MSE Loss*    : 0.2034 | Train MAE Loss     : 0.3124
+
+Epoch: 185 cost time: 0.3334 s
+Train MSE Loss*    : 0.2033 | Train MAE Loss     : 0.3125
+Valid MSE Loss*     : 0.2033 | Valid MAE Loss     : 0.3595
+Validation loss decreased (0.203500 --> 0.203300).  Saving model ...
+
+Epoch: 186 cost time: 0.3983 s
+Train MSE Loss*    : 0.2034 | Train MAE Loss     : 0.3122
+
+Epoch: 187 cost time: 0.3328 s
+Train MSE Loss*    : 0.2034 | Train MAE Loss     : 0.3125
+
+Epoch: 188 cost time: 0.3915 s
+Train MSE Loss*    : 0.2035 | Train MAE Loss     : 0.3124
+
+Epoch: 189 cost time: 0.3911 s
+Train MSE Loss*    : 0.2031 | Train MAE Loss     : 0.3121
+
+Epoch: 190 cost time: 0.3386 s
+Train MSE Loss*    : 0.2031 | Train MAE Loss     : 0.3122
+Valid MSE Loss*     : 0.2031 | Valid MAE Loss     : 0.3608
+Validation loss decreased (0.203300 --> 0.203100).  Saving model ...
+
+Epoch: 191 cost time: 0.3366 s
+Train MSE Loss*    : 0.2032 | Train MAE Loss     : 0.3123
+
+Epoch: 192 cost time: 0.3899 s
+Train MSE Loss*    : 0.2033 | Train MAE Loss     : 0.3124
+
+Epoch: 193 cost time: 0.3926 s
+Train MSE Loss*    : 0.2033 | Train MAE Loss     : 0.3122
+
+Epoch: 194 cost time: 0.3346 s
+Train MSE Loss*    : 0.2032 | Train MAE Loss     : 0.3124
+
+Epoch: 195 cost time: 0.3916 s
+Train MSE Loss*    : 0.2030 | Train MAE Loss     : 0.3120
+Valid MSE Loss*     : 0.2030 | Valid MAE Loss     : 0.3624
+EarlyStopping counter: 1 out of 7
+
+Epoch: 196 cost time: 0.3376 s
+Train MSE Loss*    : 0.2030 | Train MAE Loss     : 0.3123
+
+Epoch: 197 cost time: 0.3889 s
+Train MSE Loss*    : 0.2029 | Train MAE Loss     : 0.3120
+
+Epoch: 198 cost time: 0.3339 s
+Train MSE Loss*    : 0.2031 | Train MAE Loss     : 0.3122
+
+Epoch: 199 cost time: 0.3916 s
+Train MSE Loss*    : 0.2030 | Train MAE Loss     : 0.3121
+
+Epoch: 200 cost time: 0.3909 s
+Train MSE Loss*    : 0.2030 | Train MAE Loss     : 0.3123
+Valid MSE Loss*     : 0.2030 | Valid MAE Loss     : 0.36
+EarlyStopping counter: 2 out of 7
+
+Epoch: 201 cost time: 0.3939 s
+Train MSE Loss*    : 0.2031 | Train MAE Loss     : 0.3121
+
+Epoch: 202 cost time: 0.3915 s
+Train MSE Loss*    : 0.2031 | Train MAE Loss     : 0.3122
+
+Epoch: 203 cost time: 0.3362 s
+Train MSE Loss*    : 0.2033 | Train MAE Loss     : 0.3125
+
+Epoch: 204 cost time: 0.3920 s
+Train MSE Loss*    : 0.2030 | Train MAE Loss     : 0.3122
+
+Epoch: 205 cost time: 0.3921 s
+Train MSE Loss*    : 0.2028 | Train MAE Loss     : 0.3120
+Valid MSE Loss*     : 0.2028 | Valid MAE Loss     : 0.3611
+Validation loss decreased (0.203100 --> 0.202800).  Saving model ...
+
+Epoch: 206 cost time: 0.3926 s
+Train MSE Loss*    : 0.2030 | Train MAE Loss     : 0.3123
+
+Epoch: 207 cost time: 0.3394 s
+Train MSE Loss*    : 0.2031 | Train MAE Loss     : 0.3121
+
+Epoch: 208 cost time: 0.3884 s
+Train MSE Loss*    : 0.2031 | Train MAE Loss     : 0.3124
+
+Epoch: 209 cost time: 0.3920 s
+Train MSE Loss*    : 0.2031 | Train MAE Loss     : 0.3122
+
+Epoch: 210 cost time: 0.3332 s
+Train MSE Loss*    : 0.2029 | Train MAE Loss     : 0.3120
+Valid MSE Loss*     : 0.2029 | Valid MAE Loss     : 0.3613
+EarlyStopping counter: 1 out of 7
+
+Epoch: 211 cost time: 0.3972 s
+Train MSE Loss*    : 0.2029 | Train MAE Loss     : 0.3121
+
+Epoch: 212 cost time: 0.3341 s
+Train MSE Loss*    : 0.2029 | Train MAE Loss     : 0.3120
+
+Epoch: 213 cost time: 0.3897 s
+Train MSE Loss*    : 0.2029 | Train MAE Loss     : 0.3122
+
+Epoch: 214 cost time: 0.3916 s
+Train MSE Loss*    : 0.2028 | Train MAE Loss     : 0.3120
+
+Epoch: 215 cost time: 0.3349 s
+Train MSE Loss*    : 0.2030 | Train MAE Loss     : 0.3121
+Valid MSE Loss*     : 0.2030 | Valid MAE Loss     : 0.3621
+EarlyStopping counter: 2 out of 7
+
+Epoch: 216 cost time: 0.3934 s
+Train MSE Loss*    : 0.2025 | Train MAE Loss     : 0.3116
+
+Epoch: 217 cost time: 0.3355 s
+Train MSE Loss*    : 0.2027 | Train MAE Loss     : 0.3119
+
+Epoch: 218 cost time: 0.3899 s
+Train MSE Loss*    : 0.2025 | Train MAE Loss     : 0.3117
+
+Epoch: 219 cost time: 0.3337 s
+Train MSE Loss*    : 0.2027 | Train MAE Loss     : 0.3121
+
+Epoch: 220 cost time: 0.3919 s
+Train MSE Loss*    : 0.2029 | Train MAE Loss     : 0.3121
+Valid MSE Loss*     : 0.2029 | Valid MAE Loss     : 0.3607
+EarlyStopping counter: 3 out of 7
+
+Epoch: 221 cost time: 0.3398 s
+Train MSE Loss*    : 0.2024 | Train MAE Loss     : 0.3116
+
+Epoch: 222 cost time: 0.3897 s
+Train MSE Loss*    : 0.2027 | Train MAE Loss     : 0.3118
+
+Epoch: 223 cost time: 0.3907 s
+Train MSE Loss*    : 0.2027 | Train MAE Loss     : 0.3119
+
+Epoch: 224 cost time: 0.3344 s
+Train MSE Loss*    : 0.2025 | Train MAE Loss     : 0.3119
+
+Epoch: 225 cost time: 0.3942 s
+Train MSE Loss*    : 0.2026 | Train MAE Loss     : 0.3116
+Valid MSE Loss*     : 0.2026 | Valid MAE Loss     : 0.36
+Validation loss decreased (0.202800 --> 0.202600).  Saving model ...
+
+Epoch: 226 cost time: 0.3936 s
+Train MSE Loss*    : 0.2029 | Train MAE Loss     : 0.3123
+
+Epoch: 227 cost time: 0.3902 s
+Train MSE Loss*    : 0.2028 | Train MAE Loss     : 0.3120
+
+Epoch: 228 cost time: 0.3373 s
+Train MSE Loss*    : 0.2028 | Train MAE Loss     : 0.3121
+
+Epoch: 229 cost time: 0.3908 s
+Train MSE Loss*    : 0.2025 | Train MAE Loss     : 0.3118
+
+Epoch: 230 cost time: 0.3913 s
+Train MSE Loss*    : 0.2025 | Train MAE Loss     : 0.3118
+Valid MSE Loss*     : 0.2025 | Valid MAE Loss     : 0.3608
+EarlyStopping counter: 1 out of 7
+
+Epoch: 231 cost time: 0.3926 s
+Train MSE Loss*    : 0.2024 | Train MAE Loss     : 0.3117
+
+Epoch: 232 cost time: 0.3922 s
+Train MSE Loss*    : 0.2024 | Train MAE Loss     : 0.3117
+
+Epoch: 233 cost time: 0.3353 s
+Train MSE Loss*    : 0.2022 | Train MAE Loss     : 0.3116
+
+Epoch: 234 cost time: 0.3932 s
+Train MSE Loss*    : 0.2022 | Train MAE Loss     : 0.3116
+
+Epoch: 235 cost time: 0.3910 s
+Train MSE Loss*    : 0.2023 | Train MAE Loss     : 0.3116
+Valid MSE Loss*     : 0.2023 | Valid MAE Loss     : 0.3595
+Validation loss decreased (0.202600 --> 0.202300).  Saving model ...
+
+Epoch: 236 cost time: 0.3928 s
+Train MSE Loss*    : 0.2020 | Train MAE Loss     : 0.3113
+
+Epoch: 237 cost time: 0.3329 s
+Train MSE Loss*    : 0.2024 | Train MAE Loss     : 0.3118
+
+Epoch: 238 cost time: 0.3906 s
+Train MSE Loss*    : 0.2023 | Train MAE Loss     : 0.3116
+
+Epoch: 239 cost time: 0.3900 s
+Train MSE Loss*    : 0.2025 | Train MAE Loss     : 0.3118
+
+Epoch: 240 cost time: 0.3328 s
+Train MSE Loss*    : 0.2023 | Train MAE Loss     : 0.3119
+Valid MSE Loss*     : 0.2023 | Valid MAE Loss     : 0.3631
+EarlyStopping counter: 1 out of 7
+
+Epoch: 241 cost time: 0.3981 s
+Train MSE Loss*    : 0.2023 | Train MAE Loss     : 0.3115
+
+Epoch: 242 cost time: 0.3334 s
+Train MSE Loss*    : 0.2022 | Train MAE Loss     : 0.3116
+
+Epoch: 243 cost time: 0.3898 s
+Train MSE Loss*    : 0.2021 | Train MAE Loss     : 0.3117
+
+Epoch: 244 cost time: 0.3902 s
+Train MSE Loss*    : 0.2022 | Train MAE Loss     : 0.3116
+
+Epoch: 245 cost time: 0.3344 s
+Train MSE Loss*    : 0.2021 | Train MAE Loss     : 0.3116
+Valid MSE Loss*     : 0.2021 | Valid MAE Loss     : 0.3614
+Validation loss decreased (0.202300 --> 0.202100).  Saving model ...
+
+Epoch: 246 cost time: 0.3350 s
+Train MSE Loss*    : 0.2023 | Train MAE Loss     : 0.3116
+
+Epoch: 247 cost time: 0.3907 s
+Train MSE Loss*    : 0.2024 | Train MAE Loss     : 0.3116
+
+Epoch: 248 cost time: 0.3903 s
+Train MSE Loss*    : 0.2021 | Train MAE Loss     : 0.3115
+
+Epoch: 249 cost time: 0.3453 s
+Train MSE Loss*    : 0.2020 | Train MAE Loss     : 0.3113
+
+Epoch: 250 cost time: 0.3932 s
+Train MSE Loss*    : 0.2018 | Train MAE Loss     : 0.3112
+Valid MSE Loss*     : 0.2018 | Valid MAE Loss     : 0.3613
+Validation loss decreased (0.202100 --> 0.201800).  Saving model ...
+
+Epoch: 251 cost time: 0.3359 s
+Train MSE Loss*    : 0.2018 | Train MAE Loss     : 0.3113
+
+Epoch: 252 cost time: 0.3898 s
+Train MSE Loss*    : 0.2021 | Train MAE Loss     : 0.3114
+
+Epoch: 253 cost time: 0.3334 s
+Train MSE Loss*    : 0.2020 | Train MAE Loss     : 0.3113
+
+Epoch: 254 cost time: 0.3951 s
+Train MSE Loss*    : 0.2020 | Train MAE Loss     : 0.3114
+
+Epoch: 255 cost time: 0.3910 s
+Train MSE Loss*    : 0.2020 | Train MAE Loss     : 0.3116
+Valid MSE Loss*     : 0.2020 | Valid MAE Loss     : 0.3603
+EarlyStopping counter: 1 out of 7
+
+Epoch: 256 cost time: 0.3947 s
+Train MSE Loss*    : 0.2018 | Train MAE Loss     : 0.3113
+
+Epoch: 257 cost time: 0.4061 s
+Train MSE Loss*    : 0.2022 | Train MAE Loss     : 0.3116
+
+Epoch: 258 cost time: 0.3345 s
+Train MSE Loss*    : 0.2020 | Train MAE Loss     : 0.3115
+
+Epoch: 259 cost time: 0.3923 s
+Train MSE Loss*    : 0.2019 | Train MAE Loss     : 0.3114
+
+Epoch: 260 cost time: 0.3906 s
+Train MSE Loss*    : 0.2021 | Train MAE Loss     : 0.3115
+Valid MSE Loss*     : 0.2021 | Valid MAE Loss     : 0.3593
+EarlyStopping counter: 2 out of 7
+
+Epoch: 261 cost time: 0.3929 s
+Train MSE Loss*    : 0.2017 | Train MAE Loss     : 0.3110
+
+Epoch: 262 cost time: 0.3344 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3113
+
+Epoch: 263 cost time: 0.3864 s
+Train MSE Loss*    : 0.2018 | Train MAE Loss     : 0.3113
+
+Epoch: 264 cost time: 0.3872 s
+Train MSE Loss*    : 0.2019 | Train MAE Loss     : 0.3113
+
+Epoch: 265 cost time: 0.3343 s
+Train MSE Loss*    : 0.2020 | Train MAE Loss     : 0.3114
+Valid MSE Loss*     : 0.2020 | Valid MAE Loss     : 0.3614
+EarlyStopping counter: 3 out of 7
+
+Epoch: 266 cost time: 0.3939 s
+Train MSE Loss*    : 0.2023 | Train MAE Loss     : 0.3117
+
+Epoch: 267 cost time: 0.3310 s
+Train MSE Loss*    : 0.2018 | Train MAE Loss     : 0.3113
+
+Epoch: 268 cost time: 0.3857 s
+Train MSE Loss*    : 0.2020 | Train MAE Loss     : 0.3116
+
+Epoch: 269 cost time: 0.3878 s
+Train MSE Loss*    : 0.2020 | Train MAE Loss     : 0.3113
+
+Epoch: 270 cost time: 0.3365 s
+Train MSE Loss*    : 0.2020 | Train MAE Loss     : 0.3115
+Valid MSE Loss*     : 0.2020 | Valid MAE Loss     : 0.3607
+EarlyStopping counter: 4 out of 7
+
+Epoch: 271 cost time: 0.3896 s
+Train MSE Loss*    : 0.2019 | Train MAE Loss     : 0.3114
+
+Epoch: 272 cost time: 0.3329 s
+Train MSE Loss*    : 0.2019 | Train MAE Loss     : 0.3112
+
+Epoch: 273 cost time: 0.3877 s
+Train MSE Loss*    : 0.2018 | Train MAE Loss     : 0.3112
+
+Epoch: 274 cost time: 0.3339 s
+Train MSE Loss*    : 0.2019 | Train MAE Loss     : 0.3114
+
+Epoch: 275 cost time: 0.3895 s
+Train MSE Loss*    : 0.2017 | Train MAE Loss     : 0.3112
+Valid MSE Loss*     : 0.2017 | Valid MAE Loss     : 0.3616
+Validation loss decreased (0.201800 --> 0.201700).  Saving model ...
+
+Epoch: 276 cost time: 0.3327 s
+Train MSE Loss*    : 0.2018 | Train MAE Loss     : 0.3114
+
+Epoch: 277 cost time: 0.3884 s
+Train MSE Loss*    : 0.2018 | Train MAE Loss     : 0.3113
+
+Epoch: 278 cost time: 0.3878 s
+Train MSE Loss*    : 0.2017 | Train MAE Loss     : 0.3113
+
+Epoch: 279 cost time: 0.3329 s
+Train MSE Loss*    : 0.2017 | Train MAE Loss     : 0.3111
+
+Epoch: 280 cost time: 0.3881 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3111
+Valid MSE Loss*     : 0.2016 | Valid MAE Loss     : 0.3609
+EarlyStopping counter: 1 out of 7
+
+Epoch: 281 cost time: 0.3892 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3111
+
+Epoch: 282 cost time: 0.3908 s
+Train MSE Loss*    : 0.2017 | Train MAE Loss     : 0.3113
+
+Epoch: 283 cost time: 0.3316 s
+Train MSE Loss*    : 0.2021 | Train MAE Loss     : 0.3118
+
+Epoch: 284 cost time: 0.3878 s
+Train MSE Loss*    : 0.2019 | Train MAE Loss     : 0.3114
+
+Epoch: 285 cost time: 0.3893 s
+Train MSE Loss*    : 0.2015 | Train MAE Loss     : 0.3110
+Valid MSE Loss*     : 0.2015 | Valid MAE Loss     : 0.359
+Validation loss decreased (0.201700 --> 0.201500).  Saving model ...
+
+Epoch: 286 cost time: 0.3896 s
+Train MSE Loss*    : 0.2019 | Train MAE Loss     : 0.3114
+
+Epoch: 287 cost time: 0.3868 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3113
+
+Epoch: 288 cost time: 0.3349 s
+Train MSE Loss*    : 0.2017 | Train MAE Loss     : 0.3111
+
+Epoch: 289 cost time: 0.3877 s
+Train MSE Loss*    : 0.2015 | Train MAE Loss     : 0.3111
+
+Epoch: 290 cost time: 0.3869 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3112
+Valid MSE Loss*     : 0.2016 | Valid MAE Loss     : 0.3574
+EarlyStopping counter: 1 out of 7
+
+Epoch: 291 cost time: 0.3926 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3111
+
+Epoch: 292 cost time: 0.3320 s
+Train MSE Loss*    : 0.2014 | Train MAE Loss     : 0.3111
+
+Epoch: 293 cost time: 0.3865 s
+Train MSE Loss*    : 0.2017 | Train MAE Loss     : 0.3111
+
+Epoch: 294 cost time: 0.3860 s
+Train MSE Loss*    : 0.2014 | Train MAE Loss     : 0.3111
+
+Epoch: 295 cost time: 0.3320 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3111
+Valid MSE Loss*     : 0.2016 | Valid MAE Loss     : 0.3587
+EarlyStopping counter: 2 out of 7
+
+Epoch: 296 cost time: 0.3905 s
+Train MSE Loss*    : 0.2017 | Train MAE Loss     : 0.3112
+
+Epoch: 297 cost time: 0.3347 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3112
+
+Epoch: 298 cost time: 0.3900 s
+Train MSE Loss*    : 0.2017 | Train MAE Loss     : 0.3111
+
+Epoch: 299 cost time: 0.3888 s
+Train MSE Loss*    : 0.2015 | Train MAE Loss     : 0.3111
+
+Epoch: 300 cost time: 0.3324 s
+Train MSE Loss*    : 0.2014 | Train MAE Loss     : 0.3110
+Valid MSE Loss*     : 0.2014 | Valid MAE Loss     : 0.3582
+Validation loss decreased (0.201500 --> 0.201400).  Saving model ...
+
+Epoch: 301 cost time: 0.3330 s
+Train MSE Loss*    : 0.2014 | Train MAE Loss     : 0.3110
+
+Epoch: 302 cost time: 0.3843 s
+Train MSE Loss*    : 0.2013 | Train MAE Loss     : 0.3108
+
+Epoch: 303 cost time: 0.3876 s
+Train MSE Loss*    : 0.2014 | Train MAE Loss     : 0.3110
+
+Epoch: 304 cost time: 0.3298 s
+Train MSE Loss*    : 0.2014 | Train MAE Loss     : 0.3108
+
+Epoch: 305 cost time: 0.3871 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3113
+Valid MSE Loss*     : 0.2016 | Valid MAE Loss     : 0.3622
+EarlyStopping counter: 1 out of 7
+
+Epoch: 306 cost time: 0.3320 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3112
+
+Epoch: 307 cost time: 0.3847 s
+Train MSE Loss*    : 0.2015 | Train MAE Loss     : 0.3110
+
+Epoch: 308 cost time: 0.3323 s
+Train MSE Loss*    : 0.2014 | Train MAE Loss     : 0.3111
+
+Epoch: 309 cost time: 0.3864 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3111
+
+Epoch: 310 cost time: 0.3876 s
+Train MSE Loss*    : 0.2016 | Train MAE Loss     : 0.3111
+Valid MSE Loss*     : 0.2016 | Valid MAE Loss     : 0.3593
+EarlyStopping counter: 2 out of 7
+
+Epoch: 311 cost time: 0.3869 s
+Train MSE Loss*    : 0.2013 | Train MAE Loss     : 0.3109
+
+Epoch: 312 cost time: 0.3850 s
+Train MSE Loss*    : 0.2015 | Train MAE Loss     : 0.3110
+
+Epoch: 313 cost time: 0.3306 s
+Train MSE Loss*    : 0.2014 | Train MAE Loss     : 0.3111
+
+Epoch: 314 cost time: 0.3885 s
+Train MSE Loss*    : 0.2017 | Train MAE Loss     : 0.3113
+
+Epoch: 315 cost time: 0.3862 s
+Train MSE Loss*    : 0.2015 | Train MAE Loss     : 0.3112
+Valid MSE Loss*     : 0.2015 | Valid MAE Loss     : 0.3606
+EarlyStopping counter: 3 out of 7
+
+Epoch: 316 cost time: 0.3881 s
+Train MSE Loss*    : 0.2013 | Train MAE Loss     : 0.3109
+
+Epoch: 317 cost time: 0.3429 s
+Train MSE Loss*    : 0.2014 | Train MAE Loss     : 0.3110
+
+Epoch: 318 cost time: 0.3843 s
+Train MSE Loss*    : 0.2012 | Train MAE Loss     : 0.3108
+
+Epoch: 319 cost time: 0.3851 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3105
+
+Epoch: 320 cost time: 0.3300 s
+Train MSE Loss*    : 0.2015 | Train MAE Loss     : 0.3111
+Valid MSE Loss*     : 0.2015 | Valid MAE Loss     : 0.3573
+EarlyStopping counter: 4 out of 7
+
+Epoch: 321 cost time: 0.3873 s
+Train MSE Loss*    : 0.2011 | Train MAE Loss     : 0.3108
+
+Epoch: 322 cost time: 0.3302 s
+Train MSE Loss*    : 0.2012 | Train MAE Loss     : 0.3108
+
+Epoch: 323 cost time: 0.3871 s
+Train MSE Loss*    : 0.2012 | Train MAE Loss     : 0.3108
+
+Epoch: 324 cost time: 0.3855 s
+Train MSE Loss*    : 0.2012 | Train MAE Loss     : 0.3110
+
+Epoch: 325 cost time: 0.3305 s
+Train MSE Loss*    : 0.2013 | Train MAE Loss     : 0.3109
+Valid MSE Loss*     : 0.2013 | Valid MAE Loss     : 0.357
+EarlyStopping counter: 5 out of 7
+
+Epoch: 326 cost time: 0.3881 s
+Train MSE Loss*    : 0.2013 | Train MAE Loss     : 0.3111
+
+Epoch: 327 cost time: 0.3377 s
+Train MSE Loss*    : 0.2012 | Train MAE Loss     : 0.3109
+
+Epoch: 328 cost time: 0.4021 s
+Train MSE Loss*    : 0.2011 | Train MAE Loss     : 0.3108
+
+Epoch: 329 cost time: 0.3309 s
+Train MSE Loss*    : 0.2012 | Train MAE Loss     : 0.3108
+
+Epoch: 330 cost time: 0.3883 s
+Train MSE Loss*    : 0.2011 | Train MAE Loss     : 0.3108
+Valid MSE Loss*     : 0.2011 | Valid MAE Loss     : 0.3588
+Validation loss decreased (0.201400 --> 0.201100).  Saving model ...
+
+Epoch: 331 cost time: 0.3329 s
+Train MSE Loss*    : 0.2010 | Train MAE Loss     : 0.3107
+
+Epoch: 332 cost time: 0.3877 s
+Train MSE Loss*    : 0.2014 | Train MAE Loss     : 0.3110
+
+Epoch: 333 cost time: 0.3879 s
+Train MSE Loss*    : 0.2010 | Train MAE Loss     : 0.3105
+
+Epoch: 334 cost time: 0.3332 s
+Train MSE Loss*    : 0.2010 | Train MAE Loss     : 0.3108
+
+Epoch: 335 cost time: 0.3950 s
+Train MSE Loss*    : 0.2010 | Train MAE Loss     : 0.3104
+Valid MSE Loss*     : 0.2010 | Valid MAE Loss     : 0.3561
+EarlyStopping counter: 1 out of 7
+
+Epoch: 336 cost time: 0.3839 s
+Train MSE Loss*    : 0.2013 | Train MAE Loss     : 0.3109
+
+Epoch: 337 cost time: 0.3842 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3109
+
+Epoch: 338 cost time: 0.3306 s
+Train MSE Loss*    : 0.2012 | Train MAE Loss     : 0.3107
+
+Epoch: 339 cost time: 0.3917 s
+Train MSE Loss*    : 0.2011 | Train MAE Loss     : 0.3108
+
+Epoch: 340 cost time: 0.4063 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3107
+Valid MSE Loss*     : 0.2008 | Valid MAE Loss     : 0.3602
+Validation loss decreased (0.201100 --> 0.200800).  Saving model ...
+
+Epoch: 341 cost time: 0.3930 s
+Train MSE Loss*    : 0.2010 | Train MAE Loss     : 0.3106
+
+Epoch: 342 cost time: 0.3898 s
+Train MSE Loss*    : 0.2011 | Train MAE Loss     : 0.3109
+
+Epoch: 343 cost time: 0.3338 s
+Train MSE Loss*    : 0.2010 | Train MAE Loss     : 0.3104
+
+Epoch: 344 cost time: 0.3899 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3108
+
+Epoch: 345 cost time: 0.3910 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3105
+Valid MSE Loss*     : 0.2009 | Valid MAE Loss     : 0.3587
+EarlyStopping counter: 1 out of 7
+
+Epoch: 346 cost time: 0.3926 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3106
+
+Epoch: 347 cost time: 0.3334 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3105
+
+Epoch: 348 cost time: 0.3914 s
+Train MSE Loss*    : 0.2011 | Train MAE Loss     : 0.3107
+
+Epoch: 349 cost time: 0.3904 s
+Train MSE Loss*    : 0.2011 | Train MAE Loss     : 0.3109
+
+Epoch: 350 cost time: 0.3383 s
+Train MSE Loss*    : 0.2011 | Train MAE Loss     : 0.3108
+Valid MSE Loss*     : 0.2011 | Valid MAE Loss     : 0.3613
+EarlyStopping counter: 2 out of 7
+
+Epoch: 351 cost time: 0.4004 s
+Train MSE Loss*    : 0.2007 | Train MAE Loss     : 0.3106
+
+Epoch: 352 cost time: 0.3320 s
+Train MSE Loss*    : 0.2010 | Train MAE Loss     : 0.3105
+
+Epoch: 353 cost time: 0.3894 s
+Train MSE Loss*    : 0.2010 | Train MAE Loss     : 0.3107
+
+Epoch: 354 cost time: 0.3926 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3104
+
+Epoch: 355 cost time: 0.3335 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3107
+Valid MSE Loss*     : 0.2008 | Valid MAE Loss     : 0.3573
+EarlyStopping counter: 3 out of 7
+
+Epoch: 356 cost time: 0.3395 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3105
+
+Epoch: 357 cost time: 0.3895 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3104
+
+Epoch: 358 cost time: 0.3920 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3107
+
+Epoch: 359 cost time: 0.3339 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3106
+
+Epoch: 360 cost time: 0.3927 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3104
+Valid MSE Loss*     : 0.2009 | Valid MAE Loss     : 0.3545
+EarlyStopping counter: 4 out of 7
+
+Epoch: 361 cost time: 0.3368 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3107
+
+Epoch: 362 cost time: 0.3976 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3105
+
+Epoch: 363 cost time: 0.3360 s
+Train MSE Loss*    : 0.2007 | Train MAE Loss     : 0.3106
+
+Epoch: 364 cost time: 0.3934 s
+Train MSE Loss*    : 0.2007 | Train MAE Loss     : 0.3105
+
+Epoch: 365 cost time: 0.3907 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3105
+Valid MSE Loss*     : 0.2008 | Valid MAE Loss     : 0.3662
+EarlyStopping counter: 5 out of 7
+
+Epoch: 366 cost time: 0.3946 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3105
+
+Epoch: 367 cost time: 0.3918 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3106
+
+Epoch: 368 cost time: 0.3329 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3105
+
+Epoch: 369 cost time: 0.3904 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3103
+
+Epoch: 370 cost time: 0.3907 s
+Train MSE Loss*    : 0.2006 | Train MAE Loss     : 0.3104
+Valid MSE Loss*     : 0.2006 | Valid MAE Loss     : 0.3572
+Validation loss decreased (0.200800 --> 0.200600).  Saving model ...
+
+Epoch: 371 cost time: 0.4037 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3105
+
+Epoch: 372 cost time: 0.3528 s
+Train MSE Loss*    : 0.2007 | Train MAE Loss     : 0.3105
+
+Epoch: 373 cost time: 0.5194 s
+Train MSE Loss*    : 0.2007 | Train MAE Loss     : 0.3105
+
+Epoch: 374 cost time: 0.4737 s
+Train MSE Loss*    : 0.2008 | Train MAE Loss     : 0.3106
+
+Epoch: 375 cost time: 0.3362 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3107
+Valid MSE Loss*     : 0.2009 | Valid MAE Loss     : 0.3567
+EarlyStopping counter: 1 out of 7
+
+Epoch: 376 cost time: 0.3969 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3106
+
+Epoch: 377 cost time: 0.3292 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3106
+
+Epoch: 378 cost time: 0.3849 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3104
+
+Epoch: 379 cost time: 0.3884 s
+Train MSE Loss*    : 0.2006 | Train MAE Loss     : 0.3103
+
+Epoch: 380 cost time: 0.3319 s
+Train MSE Loss*    : 0.2006 | Train MAE Loss     : 0.3105
+Valid MSE Loss*     : 0.2006 | Valid MAE Loss     : 0.3597
+EarlyStopping counter: 2 out of 7
+
+Epoch: 381 cost time: 0.3901 s
+Train MSE Loss*    : 0.2006 | Train MAE Loss     : 0.3104
+
+Epoch: 382 cost time: 0.3306 s
+Train MSE Loss*    : 0.2007 | Train MAE Loss     : 0.3106
+
+Epoch: 383 cost time: 0.3870 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3102
+
+Epoch: 384 cost time: 0.3311 s
+Train MSE Loss*    : 0.2006 | Train MAE Loss     : 0.3103
+
+Epoch: 385 cost time: 0.3877 s
+Train MSE Loss*    : 0.2006 | Train MAE Loss     : 0.3104
+Valid MSE Loss*     : 0.2006 | Valid MAE Loss     : 0.3583
+EarlyStopping counter: 3 out of 7
+
+Epoch: 386 cost time: 0.3360 s
+Train MSE Loss*    : 0.2006 | Train MAE Loss     : 0.3105
+
+Epoch: 387 cost time: 0.3856 s
+Train MSE Loss*    : 0.2006 | Train MAE Loss     : 0.3103
+
+Epoch: 388 cost time: 0.3873 s
+Train MSE Loss*    : 0.2006 | Train MAE Loss     : 0.3102
+
+Epoch: 389 cost time: 0.3306 s
+Train MSE Loss*    : 0.2004 | Train MAE Loss     : 0.3103
+
+Epoch: 390 cost time: 0.3872 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3105
+Valid MSE Loss*     : 0.2005 | Valid MAE Loss     : 0.358
+EarlyStopping counter: 4 out of 7
+
+Epoch: 391 cost time: 0.3879 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3102
+
+Epoch: 392 cost time: 0.3881 s
+Train MSE Loss*    : 0.2006 | Train MAE Loss     : 0.3104
+
+Epoch: 393 cost time: 0.3331 s
+Train MSE Loss*    : 0.2007 | Train MAE Loss     : 0.3105
+
+Epoch: 394 cost time: 0.3875 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3104
+
+Epoch: 395 cost time: 0.3879 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3104
+Valid MSE Loss*     : 0.2005 | Valid MAE Loss     : 0.357
+EarlyStopping counter: 5 out of 7
+
+Epoch: 396 cost time: 0.3915 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3103
+
+Epoch: 397 cost time: 0.3871 s
+Train MSE Loss*    : 0.2004 | Train MAE Loss     : 0.3103
+
+Epoch: 398 cost time: 0.3361 s
+Train MSE Loss*    : 0.2009 | Train MAE Loss     : 0.3107
+
+Epoch: 399 cost time: 0.3875 s
+Train MSE Loss*    : 0.2006 | Train MAE Loss     : 0.3104
+
+Epoch: 400 cost time: 0.3890 s
+Train MSE Loss*    : 0.2007 | Train MAE Loss     : 0.3105
+Valid MSE Loss*     : 0.2007 | Valid MAE Loss     : 0.3595
+EarlyStopping counter: 6 out of 7
+
+Epoch: 401 cost time: 0.3899 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3103
+
+Epoch: 402 cost time: 0.3315 s
+Train MSE Loss*    : 0.2007 | Train MAE Loss     : 0.3106
+
+Epoch: 403 cost time: 0.3858 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3101
+
+Epoch: 404 cost time: 0.3867 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3103
+
+Epoch: 405 cost time: 0.3306 s
+Train MSE Loss*    : 0.2004 | Train MAE Loss     : 0.3102
+Valid MSE Loss*     : 0.2004 | Valid MAE Loss     : 0.3564
+Validation loss decreased (0.200600 --> 0.200400).  Saving model ...
+
+Epoch: 406 cost time: 0.3919 s
+Train MSE Loss*    : 0.2004 | Train MAE Loss     : 0.3104
+
+Epoch: 407 cost time: 0.3327 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3104
+
+Epoch: 408 cost time: 0.3888 s
+Train MSE Loss*    : 0.2007 | Train MAE Loss     : 0.3103
+
+Epoch: 409 cost time: 0.3870 s
+Train MSE Loss*    : 0.2003 | Train MAE Loss     : 0.3102
+
+Epoch: 410 cost time: 0.3311 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3099
+Valid MSE Loss*     : 0.2002 | Valid MAE Loss     : 0.3596
+Validation loss decreased (0.200400 --> 0.200200).  Saving model ...
+
+Epoch: 411 cost time: 0.3336 s
+Train MSE Loss*    : 0.2004 | Train MAE Loss     : 0.3104
+
+Epoch: 412 cost time: 0.3851 s
+Train MSE Loss*    : 0.2001 | Train MAE Loss     : 0.3100
+
+Epoch: 413 cost time: 0.3898 s
+Train MSE Loss*    : 0.2003 | Train MAE Loss     : 0.3103
+
+Epoch: 414 cost time: 0.3426 s
+Train MSE Loss*    : 0.2007 | Train MAE Loss     : 0.3105
+
+Epoch: 415 cost time: 0.3908 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3104
+Valid MSE Loss*     : 0.2005 | Valid MAE Loss     : 0.3607
+EarlyStopping counter: 1 out of 7
+
+Epoch: 416 cost time: 0.3386 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3103
+
+Epoch: 417 cost time: 0.4029 s
+Train MSE Loss*    : 0.2004 | Train MAE Loss     : 0.3103
+
+Epoch: 418 cost time: 0.3318 s
+Train MSE Loss*    : 0.2004 | Train MAE Loss     : 0.3101
+
+Epoch: 419 cost time: 0.3865 s
+Train MSE Loss*    : 0.2003 | Train MAE Loss     : 0.3103
+
+Epoch: 420 cost time: 0.3873 s
+Train MSE Loss*    : 0.2003 | Train MAE Loss     : 0.3102
+Valid MSE Loss*     : 0.2003 | Valid MAE Loss     : 0.3574
+EarlyStopping counter: 2 out of 7
+
+Epoch: 421 cost time: 0.3894 s
+Train MSE Loss*    : 0.2001 | Train MAE Loss     : 0.3099
+
+Epoch: 422 cost time: 0.3867 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3100
+
+Epoch: 423 cost time: 0.3315 s
+Train MSE Loss*    : 0.2004 | Train MAE Loss     : 0.3102
+
+Epoch: 424 cost time: 0.3879 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3102
+
+Epoch: 425 cost time: 0.3885 s
+Train MSE Loss*    : 0.2003 | Train MAE Loss     : 0.3100
+Valid MSE Loss*     : 0.2003 | Valid MAE Loss     : 0.358
+EarlyStopping counter: 3 out of 7
+
+Epoch: 426 cost time: 0.3893 s
+Train MSE Loss*    : 0.2003 | Train MAE Loss     : 0.3102
+
+Epoch: 427 cost time: 0.3320 s
+Train MSE Loss*    : 0.2003 | Train MAE Loss     : 0.3102
+
+Epoch: 428 cost time: 0.3872 s
+Train MSE Loss*    : 0.2005 | Train MAE Loss     : 0.3104
+
+Epoch: 429 cost time: 0.3907 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3099
+
+Epoch: 430 cost time: 0.3390 s
+Train MSE Loss*    : 0.2000 | Train MAE Loss     : 0.3101
+Valid MSE Loss*     : 0.2000 | Valid MAE Loss     : 0.3607
+Validation loss decreased (0.200200 --> 0.200000).  Saving model ...
+
+Epoch: 431 cost time: 0.3923 s
+Train MSE Loss*    : 0.2003 | Train MAE Loss     : 0.3101
+
+Epoch: 432 cost time: 0.3346 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3099
+
+Epoch: 433 cost time: 0.3913 s
+Train MSE Loss*    : 0.2003 | Train MAE Loss     : 0.3102
+
+Epoch: 434 cost time: 0.3966 s
+Train MSE Loss*    : 0.2000 | Train MAE Loss     : 0.3099
+
+Epoch: 435 cost time: 0.3399 s
+Train MSE Loss*    : 0.2003 | Train MAE Loss     : 0.3101
+Valid MSE Loss*     : 0.2003 | Valid MAE Loss     : 0.3612
+EarlyStopping counter: 1 out of 7
+
+Epoch: 436 cost time: 0.4004 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3100
+
+Epoch: 437 cost time: 0.3360 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3101
+
+Epoch: 438 cost time: 0.3871 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3099
+
+Epoch: 439 cost time: 0.3328 s
+Train MSE Loss*    : 0.2001 | Train MAE Loss     : 0.3101
+
+Epoch: 440 cost time: 0.3886 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3102
+Valid MSE Loss*     : 0.2002 | Valid MAE Loss     : 0.3599
+EarlyStopping counter: 2 out of 7
+
+Epoch: 441 cost time: 0.3331 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3101
+
+Epoch: 442 cost time: 0.3884 s
+Train MSE Loss*    : 0.2004 | Train MAE Loss     : 0.3102
+
+Epoch: 443 cost time: 0.3883 s
+Train MSE Loss*    : 0.2000 | Train MAE Loss     : 0.3099
+
+Epoch: 444 cost time: 0.3337 s
+Train MSE Loss*    : 0.2004 | Train MAE Loss     : 0.3104
+
+Epoch: 445 cost time: 0.3910 s
+Train MSE Loss*    : 0.2001 | Train MAE Loss     : 0.3100
+Valid MSE Loss*     : 0.2001 | Valid MAE Loss     : 0.358
+EarlyStopping counter: 3 out of 7
+
+Epoch: 446 cost time: 0.3906 s
+Train MSE Loss*    : 0.2001 | Train MAE Loss     : 0.3099
+
+Epoch: 447 cost time: 0.3862 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3101
+
+Epoch: 448 cost time: 0.3319 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3101
+
+Epoch: 449 cost time: 0.3915 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3099
+
+Epoch: 450 cost time: 0.3902 s
+Train MSE Loss*    : 0.2001 | Train MAE Loss     : 0.3099
+Valid MSE Loss*     : 0.2001 | Valid MAE Loss     : 0.3615
+EarlyStopping counter: 4 out of 7
+
+Epoch: 451 cost time: 0.3914 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3101
+
+Epoch: 452 cost time: 0.3909 s
+Train MSE Loss*    : 0.2001 | Train MAE Loss     : 0.3101
+
+Epoch: 453 cost time: 0.3325 s
+Train MSE Loss*    : 0.1998 | Train MAE Loss     : 0.3096
+
+Epoch: 454 cost time: 0.3905 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3098
+
+Epoch: 455 cost time: 0.3885 s
+Train MSE Loss*    : 0.1997 | Train MAE Loss     : 0.3098
+Valid MSE Loss*     : 0.1997 | Valid MAE Loss     : 0.3591
+Validation loss decreased (0.200000 --> 0.199700).  Saving model ...
+
+Epoch: 456 cost time: 0.3911 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3101
+
+Epoch: 457 cost time: 0.3369 s
+Train MSE Loss*    : 0.2000 | Train MAE Loss     : 0.3100
+
+Epoch: 458 cost time: 0.3870 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3098
+
+Epoch: 459 cost time: 0.3877 s
+Train MSE Loss*    : 0.2001 | Train MAE Loss     : 0.3098
+
+Epoch: 460 cost time: 0.3328 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3101
+Valid MSE Loss*     : 0.2002 | Valid MAE Loss     : 0.3608
+EarlyStopping counter: 1 out of 7
+
+Epoch: 461 cost time: 0.3948 s
+Train MSE Loss*    : 0.2000 | Train MAE Loss     : 0.3100
+
+Epoch: 462 cost time: 0.3332 s
+Train MSE Loss*    : 0.2002 | Train MAE Loss     : 0.3101
+
+Epoch: 463 cost time: 0.3897 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3099
+
+Epoch: 464 cost time: 0.3891 s
+Train MSE Loss*    : 0.1998 | Train MAE Loss     : 0.3097
+
+Epoch: 465 cost time: 0.3326 s
+Train MSE Loss*    : 0.1998 | Train MAE Loss     : 0.3098
+Valid MSE Loss*     : 0.1998 | Valid MAE Loss     : 0.3612
+EarlyStopping counter: 2 out of 7
+
+Epoch: 466 cost time: 0.3353 s
+Train MSE Loss*    : 0.2001 | Train MAE Loss     : 0.3098
+
+Epoch: 467 cost time: 0.3893 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3101
+
+Epoch: 468 cost time: 0.3885 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3098
+
+Epoch: 469 cost time: 0.3374 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3098
+
+Epoch: 470 cost time: 0.3900 s
+Train MSE Loss*    : 0.1998 | Train MAE Loss     : 0.3096
+Valid MSE Loss*     : 0.1998 | Valid MAE Loss     : 0.3573
+EarlyStopping counter: 3 out of 7
+
+Epoch: 471 cost time: 0.3365 s
+Train MSE Loss*    : 0.1997 | Train MAE Loss     : 0.3100
+
+Epoch: 472 cost time: 0.3885 s
+Train MSE Loss*    : 0.2000 | Train MAE Loss     : 0.3098
+
+Epoch: 473 cost time: 0.3350 s
+Train MSE Loss*    : 0.2000 | Train MAE Loss     : 0.3100
+
+Epoch: 474 cost time: 0.3999 s
+Train MSE Loss*    : 0.2001 | Train MAE Loss     : 0.3101
+
+Epoch: 475 cost time: 0.3882 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3099
+Valid MSE Loss*     : 0.1999 | Valid MAE Loss     : 0.3533
+EarlyStopping counter: 4 out of 7
+
+Epoch: 476 cost time: 0.3965 s
+Train MSE Loss*    : 0.1997 | Train MAE Loss     : 0.3095
+
+Epoch: 477 cost time: 0.3873 s
+Train MSE Loss*    : 0.2001 | Train MAE Loss     : 0.3102
+
+Epoch: 478 cost time: 0.3325 s
+Train MSE Loss*    : 0.2003 | Train MAE Loss     : 0.3101
+
+Epoch: 479 cost time: 0.3882 s
+Train MSE Loss*    : 0.1998 | Train MAE Loss     : 0.3099
+
+Epoch: 480 cost time: 0.3880 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3099
+Valid MSE Loss*     : 0.1999 | Valid MAE Loss     : 0.3567
+EarlyStopping counter: 5 out of 7
+
+Epoch: 481 cost time: 0.3905 s
+Train MSE Loss*    : 0.2000 | Train MAE Loss     : 0.3099
+
+Epoch: 482 cost time: 0.3335 s
+Train MSE Loss*    : 0.1998 | Train MAE Loss     : 0.3099
+
+Epoch: 483 cost time: 0.3877 s
+Train MSE Loss*    : 0.1998 | Train MAE Loss     : 0.3098
+
+Epoch: 484 cost time: 0.3876 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3097
+
+Epoch: 485 cost time: 0.3462 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3099
+Valid MSE Loss*     : 0.1999 | Valid MAE Loss     : 0.3588
+EarlyStopping counter: 6 out of 7
+
+Epoch: 486 cost time: 0.3913 s
+Train MSE Loss*    : 0.2000 | Train MAE Loss     : 0.3099
+
+Epoch: 487 cost time: 0.3346 s
+Train MSE Loss*    : 0.1996 | Train MAE Loss     : 0.3098
+
+Epoch: 488 cost time: 0.3872 s
+Train MSE Loss*    : 0.1997 | Train MAE Loss     : 0.3096
+
+Epoch: 489 cost time: 0.3874 s
+Train MSE Loss*    : 0.1997 | Train MAE Loss     : 0.3097
+
+Epoch: 490 cost time: 0.3319 s
+Train MSE Loss*    : 0.1999 | Train MAE Loss     : 0.3098
+Valid MSE Loss*     : 0.1999 | Valid MAE Loss     : 0.3622
+EarlyStopping counter: 7 out of 7
+
+Early stopping
+
+################## Training is Done! #########################
+Test:
+MSE Loss:    0.3992
+MAE Loss:    0.4405
+
+Training time is : 0:03:18.733956
+
+
+

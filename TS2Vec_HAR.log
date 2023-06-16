@@ -1,0 +1,780 @@
+nohup: ignoring input
+input cmd is:
+	...python main.py --device cuda:0 --logs_save_dir /home/HaotianF/Exp/Results --experiment_description TS2Vec --method_name TS2Vec --run_description HAR --training_mode self_supervised --seed 123 --selected_dataset HAR
+
+=============================================
+Dataset: HAR
+Method:  TS2Vec
+Mode:    self_supervised
+=============================================
+Training started ....
+
+Epoch: 1 cost time: 16.4453 s
+Train Loss     : 3.0673
+
+Epoch: 2 cost time: 8.0296 s
+Train Loss     : 2.0890
+
+Epoch: 3 cost time: 5.8424 s
+Train Loss     : 1.5937
+
+Epoch: 4 cost time: 5.9599 s
+Train Loss     : 1.4432
+
+Epoch: 5 cost time: 6.0286 s
+Train Loss     : 1.2737
+Valid Loss     : 0.9191
+Validation loss decreased (inf --> 0.919087).  Saving model ...
+
+Epoch: 6 cost time: 6.0794 s
+Train Loss     : 1.1602
+
+Epoch: 7 cost time: 5.9736 s
+Train Loss     : 1.0866
+
+Epoch: 8 cost time: 6.3413 s
+Train Loss     : 0.9816
+
+Epoch: 9 cost time: 6.1601 s
+Train Loss     : 1.0124
+
+Epoch: 10 cost time: 6.0730 s
+Train Loss     : 0.9809
+Valid Loss     : 0.6584
+Validation loss decreased (0.919087 --> 0.658364).  Saving model ...
+
+Epoch: 11 cost time: 5.9661 s
+Train Loss     : 0.9137
+
+Epoch: 12 cost time: 6.3179 s
+Train Loss     : 0.8917
+
+Epoch: 13 cost time: 6.1557 s
+Train Loss     : 0.8590
+
+Epoch: 14 cost time: 6.0342 s
+Train Loss     : 0.7975
+
+Epoch: 15 cost time: 6.3159 s
+Train Loss     : 0.8807
+Valid Loss     : 0.5698
+Validation loss decreased (0.658364 --> 0.569849).  Saving model ...
+
+Epoch: 16 cost time: 4.6362 s
+Train Loss     : 0.7253
+
+Epoch: 17 cost time: 6.1845 s
+Train Loss     : 0.7227
+
+Epoch: 18 cost time: 6.1779 s
+Train Loss     : 0.6595
+
+Epoch: 19 cost time: 5.8186 s
+Train Loss     : 0.6232
+
+Epoch: 20 cost time: 6.0604 s
+Train Loss     : 0.6088
+Valid Loss     : 0.2823
+Validation loss decreased (0.569849 --> 0.282320).  Saving model ...
+
+Epoch: 21 cost time: 6.1459 s
+Train Loss     : 0.6384
+
+Epoch: 22 cost time: 6.1203 s
+Train Loss     : 0.6137
+
+Epoch: 23 cost time: 6.1261 s
+Train Loss     : 0.5681
+
+Epoch: 24 cost time: 6.0143 s
+Train Loss     : 0.5348
+
+Epoch: 25 cost time: 5.6063 s
+Train Loss     : 0.5930
+Valid Loss     : 0.3065
+EarlyStopping counter: 1 out of 4
+
+Epoch: 26 cost time: 5.9325 s
+Train Loss     : 0.5290
+
+Epoch: 27 cost time: 6.3390 s
+Train Loss     : 0.5274
+
+Epoch: 28 cost time: 6.1308 s
+Train Loss     : 0.4769
+
+Epoch: 29 cost time: 6.1094 s
+Train Loss     : 0.4894
+
+Epoch: 30 cost time: 6.3601 s
+Train Loss     : 0.5192
+Valid Loss     : 0.2368
+Validation loss decreased (0.282320 --> 0.236832).  Saving model ...
+
+Epoch: 31 cost time: 5.7888 s
+Train Loss     : 0.4812
+
+Epoch: 32 cost time: 5.6565 s
+Train Loss     : 0.4250
+
+Epoch: 33 cost time: 6.1970 s
+Train Loss     : 0.4877
+
+Epoch: 34 cost time: 6.1329 s
+Train Loss     : 0.4882
+
+Epoch: 35 cost time: 6.2290 s
+Train Loss     : 0.4864
+Valid Loss     : 0.2014
+Validation loss decreased (0.236832 --> 0.201395).  Saving model ...
+
+Epoch: 36 cost time: 6.2096 s
+Train Loss     : 0.3701
+
+Epoch: 37 cost time: 6.0203 s
+Train Loss     : 0.5176
+
+Epoch: 38 cost time: 5.8561 s
+Train Loss     : 0.4337
+
+Epoch: 39 cost time: 6.0174 s
+Train Loss     : 0.3950
+
+Epoch: 40 cost time: 6.2730 s
+Train Loss     : 0.4345
+Valid Loss     : 0.2083
+EarlyStopping counter: 1 out of 4
+
+Epoch: 41 cost time: 5.9860 s
+Train Loss     : 0.4086
+
+Epoch: 42 cost time: 6.0940 s
+Train Loss     : 0.4307
+
+Epoch: 43 cost time: 5.4168 s
+Train Loss     : 0.3767
+
+Epoch: 44 cost time: 5.8389 s
+Train Loss     : 0.4193
+
+Epoch: 45 cost time: 6.2629 s
+Train Loss     : 0.3453
+Valid Loss     : 0.1694
+Validation loss decreased (0.201395 --> 0.169361).  Saving model ...
+
+Epoch: 46 cost time: 6.0596 s
+Train Loss     : 0.3368
+
+Epoch: 47 cost time: 6.1540 s
+Train Loss     : 0.4657
+
+Epoch: 48 cost time: 6.1563 s
+Train Loss     : 0.3766
+
+Epoch: 49 cost time: 6.1840 s
+Train Loss     : 0.3630
+
+Epoch: 50 cost time: 6.1619 s
+Train Loss     : 0.3486
+Valid Loss     : 0.2636
+EarlyStopping counter: 1 out of 4
+
+Epoch: 51 cost time: 6.1340 s
+Train Loss     : 0.3583
+
+Epoch: 52 cost time: 6.0572 s
+Train Loss     : 0.4077
+
+Epoch: 53 cost time: 6.1247 s
+Train Loss     : 0.4291
+
+Epoch: 54 cost time: 5.9210 s
+Train Loss     : 0.4115
+
+Epoch: 55 cost time: 5.6115 s
+Train Loss     : 0.3940
+Valid Loss     : 0.1638
+Validation loss decreased (0.169361 --> 0.163784).  Saving model ...
+
+Epoch: 56 cost time: 6.1391 s
+Train Loss     : 0.3590
+
+Epoch: 57 cost time: 5.9046 s
+Train Loss     : 0.3333
+
+Epoch: 58 cost time: 5.6217 s
+Train Loss     : 0.3735
+
+Epoch: 59 cost time: 6.0116 s
+Train Loss     : 0.3740
+
+Epoch: 60 cost time: 6.0904 s
+Train Loss     : 0.5067
+Valid Loss     : 0.1755
+EarlyStopping counter: 1 out of 4
+
+Epoch: 61 cost time: 5.8830 s
+Train Loss     : 0.4014
+
+Epoch: 62 cost time: 6.1479 s
+Train Loss     : 0.3168
+
+Epoch: 63 cost time: 5.9042 s
+Train Loss     : 0.3746
+
+Epoch: 64 cost time: 6.1070 s
+Train Loss     : 0.3205
+
+Epoch: 65 cost time: 6.0591 s
+Train Loss     : 0.3472
+Valid Loss     : 0.1104
+Validation loss decreased (0.163784 --> 0.110403).  Saving model ...
+
+Epoch: 66 cost time: 6.3168 s
+Train Loss     : 0.3198
+
+Epoch: 67 cost time: 6.1919 s
+Train Loss     : 0.3465
+
+Epoch: 68 cost time: 6.1800 s
+Train Loss     : 0.3337
+
+Epoch: 69 cost time: 6.2146 s
+Train Loss     : 0.2833
+
+Epoch: 70 cost time: 6.1509 s
+Train Loss     : 0.3272
+Valid Loss     : 0.0928
+Validation loss decreased (0.110403 --> 0.092773).  Saving model ...
+
+Epoch: 71 cost time: 6.2226 s
+Train Loss     : 0.2966
+
+Epoch: 72 cost time: 6.0630 s
+Train Loss     : 0.3172
+
+Epoch: 73 cost time: 5.8604 s
+Train Loss     : 0.3062
+
+Epoch: 74 cost time: 6.0848 s
+Train Loss     : 0.3670
+
+Epoch: 75 cost time: 6.0278 s
+Train Loss     : 0.3148
+Valid Loss     : 0.1144
+EarlyStopping counter: 1 out of 4
+
+Epoch: 76 cost time: 5.8174 s
+Train Loss     : 0.3244
+
+Epoch: 77 cost time: 5.7024 s
+Train Loss     : 0.3173
+
+Epoch: 78 cost time: 5.9481 s
+Train Loss     : 0.3491
+
+Epoch: 79 cost time: 5.8228 s
+Train Loss     : 0.3796
+
+Epoch: 80 cost time: 5.7916 s
+Train Loss     : 0.3833
+Valid Loss     : 0.1211
+EarlyStopping counter: 2 out of 4
+
+Epoch: 81 cost time: 5.5252 s
+Train Loss     : 0.3289
+
+Epoch: 82 cost time: 6.0480 s
+Train Loss     : 0.2969
+
+Epoch: 83 cost time: 6.1139 s
+Train Loss     : 0.3248
+
+Epoch: 84 cost time: 5.9201 s
+Train Loss     : 0.3169
+
+Epoch: 85 cost time: 6.0833 s
+Train Loss     : 0.3826
+Valid Loss     : 0.1599
+EarlyStopping counter: 3 out of 4
+
+Epoch: 86 cost time: 6.1062 s
+Train Loss     : 0.3608
+
+Epoch: 87 cost time: 6.0810 s
+Train Loss     : 0.2905
+
+Epoch: 88 cost time: 6.1715 s
+Train Loss     : 0.2948
+
+Epoch: 89 cost time: 6.1551 s
+Train Loss     : 0.3001
+
+Epoch: 90 cost time: 6.1816 s
+Train Loss     : 0.2756
+Valid Loss     : 0.0959
+EarlyStopping counter: 4 out of 4
+
+Early stopping
+
+################## Training is Done! #########################
+Training time is : 0:09:26.659731
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nohup: ignoring input
+input cmd is:
+	...python main.py --device cuda:0 --logs_save_dir /home/HaotianF/Exp/Results --experiment_description TS2Vec --method_name TS2Vec --run_description HAR --training_mode train_linear --seed 123 --selected_dataset HAR
+
+=============================================
+Dataset: HAR
+Method:  TS2Vec
+Mode:    train_linear
+=============================================
+preparing exp...
+
+Training started ....
+
+Epoch: 1 cost time: 1.3575 s
+Train Loss*     : 0.5700 | Train Acc     : 0.8347
+
+Epoch: 2 cost time: 0.8129 s
+Train Loss*     : 0.1627 | Train Acc     : 0.9597
+
+Epoch: 3 cost time: 0.7383 s
+Train Loss*     : 0.1227 | Train Acc     : 0.9675
+
+Epoch: 4 cost time: 0.8055 s
+Train Loss*     : 0.1066 | Train Acc     : 0.9693
+
+Epoch: 5 cost time: 0.7190 s
+Train Loss*     : 0.0966 | Train Acc     : 0.9696
+
+Epoch: 6 cost time: 1.0929 s
+Train Loss*     : 0.0881 | Train Acc     : 0.9717
+
+Epoch: 7 cost time: 0.9777 s
+Train Loss*     : 0.0829 | Train Acc     : 0.9727
+
+Epoch: 8 cost time: 0.9554 s
+Train Loss*     : 0.0831 | Train Acc     : 0.9733
+
+Epoch: 9 cost time: 1.0223 s
+Train Loss*     : 0.0737 | Train Acc     : 0.9729
+
+Epoch: 10 cost time: 1.0845 s
+Train Loss*     : 0.0721 | Train Acc     : 0.9760
+Valid Loss     : 0.0769 | Valid Acc     : 0.9765
+Validation loss decreased (inf --> 0.076900).  Saving model ...
+
+Epoch: 11 cost time: 0.8249 s
+Train Loss*     : 0.0705 | Train Acc     : 0.9750
+
+Epoch: 12 cost time: 0.9629 s
+Train Loss*     : 0.0667 | Train Acc     : 0.9773
+
+Epoch: 13 cost time: 0.9405 s
+Train Loss*     : 0.0687 | Train Acc     : 0.9755
+
+Epoch: 14 cost time: 0.9474 s
+Train Loss*     : 0.0707 | Train Acc     : 0.9722
+
+Epoch: 15 cost time: 1.0294 s
+Train Loss*     : 0.0656 | Train Acc     : 0.9759
+
+Epoch: 16 cost time: 0.9117 s
+Train Loss*     : 0.0648 | Train Acc     : 0.9747
+
+Epoch: 17 cost time: 0.9212 s
+Train Loss*     : 0.0638 | Train Acc     : 0.9769
+
+Epoch: 18 cost time: 0.8965 s
+Train Loss*     : 0.0605 | Train Acc     : 0.9774
+
+Epoch: 19 cost time: 1.0127 s
+Train Loss*     : 0.0685 | Train Acc     : 0.9724
+
+Epoch: 20 cost time: 0.9108 s
+Train Loss*     : 0.0567 | Train Acc     : 0.9783
+Valid Loss     : 0.0605 | Valid Acc     : 0.9804
+Validation loss decreased (0.076900 --> 0.060500).  Saving model ...
+
+Epoch: 21 cost time: 1.0203 s
+Train Loss*     : 0.0622 | Train Acc     : 0.9769
+
+Epoch: 22 cost time: 0.9979 s
+Train Loss*     : 0.0604 | Train Acc     : 0.9773
+
+Epoch: 23 cost time: 0.9598 s
+Train Loss*     : 0.0571 | Train Acc     : 0.9790
+
+Epoch: 24 cost time: 0.9168 s
+Train Loss*     : 0.0554 | Train Acc     : 0.9807
+
+Epoch: 25 cost time: 1.0227 s
+Train Loss*     : 0.0538 | Train Acc     : 0.9806
+
+Epoch: 26 cost time: 0.8220 s
+Train Loss*     : 0.0572 | Train Acc     : 0.9786
+
+Epoch: 27 cost time: 0.9588 s
+Train Loss*     : 0.0532 | Train Acc     : 0.9797
+
+Epoch: 28 cost time: 1.0886 s
+Train Loss*     : 0.0538 | Train Acc     : 0.9778
+
+Epoch: 29 cost time: 0.9666 s
+Train Loss*     : 0.0564 | Train Acc     : 0.9774
+
+Epoch: 30 cost time: 0.9217 s
+Train Loss*     : 0.0572 | Train Acc     : 0.9793
+Valid Loss     : 0.0629 | Valid Acc     : 0.9765
+EarlyStopping counter: 1 out of 4
+
+Epoch: 31 cost time: 1.0322 s
+Train Loss*     : 0.0548 | Train Acc     : 0.9790
+
+Epoch: 32 cost time: 1.0775 s
+Train Loss*     : 0.0559 | Train Acc     : 0.9781
+
+Epoch: 33 cost time: 1.0258 s
+Train Loss*     : 0.0528 | Train Acc     : 0.9780
+
+Epoch: 34 cost time: 1.0959 s
+Train Loss*     : 0.0534 | Train Acc     : 0.9776
+
+Epoch: 35 cost time: 0.9307 s
+Train Loss*     : 0.0510 | Train Acc     : 0.9790
+
+Epoch: 36 cost time: 1.0319 s
+Train Loss*     : 0.0515 | Train Acc     : 0.9795
+
+Epoch: 37 cost time: 0.9166 s
+Train Loss*     : 0.0501 | Train Acc     : 0.9816
+
+Epoch: 38 cost time: 0.8017 s
+Train Loss*     : 0.0517 | Train Acc     : 0.9797
+
+Epoch: 39 cost time: 0.8784 s
+Train Loss*     : 0.0531 | Train Acc     : 0.9788
+
+Epoch: 40 cost time: 0.8405 s
+Train Loss*     : 0.0539 | Train Acc     : 0.9785
+Valid Loss     : 0.0561 | Valid Acc     : 0.9818
+Validation loss decreased (0.060500 --> 0.056100).  Saving model ...
+
+Epoch: 41 cost time: 1.0399 s
+Train Loss*     : 0.0537 | Train Acc     : 0.9774
+
+Epoch: 42 cost time: 1.0631 s
+Train Loss*     : 0.0495 | Train Acc     : 0.9799
+
+Epoch: 43 cost time: 1.0715 s
+Train Loss*     : 0.0523 | Train Acc     : 0.9778
+
+Epoch: 44 cost time: 1.0697 s
+Train Loss*     : 0.0506 | Train Acc     : 0.9790
+
+Epoch: 45 cost time: 0.8536 s
+Train Loss*     : 0.0469 | Train Acc     : 0.9819
+
+Epoch: 46 cost time: 1.1203 s
+Train Loss*     : 0.0501 | Train Acc     : 0.9804
+
+Epoch: 47 cost time: 0.9720 s
+Train Loss*     : 0.0467 | Train Acc     : 0.9830
+
+Epoch: 48 cost time: 0.9585 s
+Train Loss*     : 0.0522 | Train Acc     : 0.9780
+
+Epoch: 49 cost time: 1.0244 s
+Train Loss*     : 0.0496 | Train Acc     : 0.9811
+
+Epoch: 50 cost time: 1.0795 s
+Train Loss*     : 0.0489 | Train Acc     : 0.9804
+Valid Loss     : 0.0552 | Valid Acc     : 0.9785
+Validation loss decreased (0.056100 --> 0.055200).  Saving model ...
+
+Epoch: 51 cost time: 1.1456 s
+Train Loss*     : 0.0469 | Train Acc     : 0.9823
+
+Epoch: 52 cost time: 0.9071 s
+Train Loss*     : 0.0469 | Train Acc     : 0.9818
+
+Epoch: 53 cost time: 0.7718 s
+Train Loss*     : 0.0446 | Train Acc     : 0.9814
+
+Epoch: 54 cost time: 0.9352 s
+Train Loss*     : 0.0448 | Train Acc     : 0.9823
+
+Epoch: 55 cost time: 1.0671 s
+Train Loss*     : 0.0469 | Train Acc     : 0.9816
+
+Epoch: 56 cost time: 0.9690 s
+Train Loss*     : 0.0455 | Train Acc     : 0.9840
+
+Epoch: 57 cost time: 0.6689 s
+Train Loss*     : 0.0481 | Train Acc     : 0.9809
+
+Epoch: 58 cost time: 1.0248 s
+Train Loss*     : 0.0480 | Train Acc     : 0.9809
+
+Epoch: 59 cost time: 0.8471 s
+Train Loss*     : 0.0453 | Train Acc     : 0.9830
+
+Epoch: 60 cost time: 0.8484 s
+Train Loss*     : 0.0461 | Train Acc     : 0.9797
+Valid Loss     : 0.0542 | Valid Acc     : 0.9798
+Validation loss decreased (0.055200 --> 0.054200).  Saving model ...
+
+Epoch: 61 cost time: 0.9014 s
+Train Loss*     : 0.0444 | Train Acc     : 0.9840
+
+Epoch: 62 cost time: 0.9991 s
+Train Loss*     : 0.0495 | Train Acc     : 0.9812
+
+Epoch: 63 cost time: 1.1047 s
+Train Loss*     : 0.0489 | Train Acc     : 0.9799
+
+Epoch: 64 cost time: 0.9978 s
+Train Loss*     : 0.0470 | Train Acc     : 0.9809
+
+Epoch: 65 cost time: 0.8462 s
+Train Loss*     : 0.0526 | Train Acc     : 0.9783
+
+Epoch: 66 cost time: 1.0400 s
+Train Loss*     : 0.0454 | Train Acc     : 0.9807
+
+Epoch: 67 cost time: 0.9917 s
+Train Loss*     : 0.0485 | Train Acc     : 0.9790
+
+Epoch: 68 cost time: 1.0546 s
+Train Loss*     : 0.0495 | Train Acc     : 0.9785
+
+Epoch: 69 cost time: 0.9624 s
+Train Loss*     : 0.0492 | Train Acc     : 0.9809
+
+Epoch: 70 cost time: 0.7484 s
+Train Loss*     : 0.0418 | Train Acc     : 0.9818
+Valid Loss     : 0.0551 | Valid Acc     : 0.9804
+EarlyStopping counter: 1 out of 4
+
+Epoch: 71 cost time: 1.0966 s
+Train Loss*     : 0.0464 | Train Acc     : 0.9800
+
+Epoch: 72 cost time: 0.9611 s
+Train Loss*     : 0.0449 | Train Acc     : 0.9825
+
+Epoch: 73 cost time: 0.7175 s
+Train Loss*     : 0.0450 | Train Acc     : 0.9799
+
+Epoch: 74 cost time: 0.8366 s
+Train Loss*     : 0.0466 | Train Acc     : 0.9800
+
+Epoch: 75 cost time: 1.0147 s
+Train Loss*     : 0.0447 | Train Acc     : 0.9818
+
+Epoch: 76 cost time: 0.8612 s
+Train Loss*     : 0.0451 | Train Acc     : 0.9825
+
+Epoch: 77 cost time: 0.8355 s
+Train Loss*     : 0.0435 | Train Acc     : 0.9833
+
+Epoch: 78 cost time: 0.9636 s
+Train Loss*     : 0.0407 | Train Acc     : 0.9826
+
+Epoch: 79 cost time: 0.7267 s
+Train Loss*     : 0.0490 | Train Acc     : 0.9799
+
+Epoch: 80 cost time: 0.9177 s
+Train Loss*     : 0.0507 | Train Acc     : 0.9807
+Valid Loss     : 0.0716 | Valid Acc     : 0.9681
+EarlyStopping counter: 2 out of 4
+
+Epoch: 81 cost time: 1.0331 s
+Train Loss*     : 0.0556 | Train Acc     : 0.9778
+
+Epoch: 82 cost time: 1.0023 s
+Train Loss*     : 0.0489 | Train Acc     : 0.9812
+
+Epoch: 83 cost time: 0.8511 s
+Train Loss*     : 0.0446 | Train Acc     : 0.9835
+
+Epoch: 84 cost time: 0.9267 s
+Train Loss*     : 0.0460 | Train Acc     : 0.9830
+
+Epoch: 85 cost time: 0.8131 s
+Train Loss*     : 0.0424 | Train Acc     : 0.9832
+
+Epoch: 86 cost time: 0.8388 s
+Train Loss*     : 0.0432 | Train Acc     : 0.9828
+
+Epoch: 87 cost time: 0.9219 s
+Train Loss*     : 0.0418 | Train Acc     : 0.9825
+
+Epoch: 88 cost time: 0.9800 s
+Train Loss*     : 0.0401 | Train Acc     : 0.9833
+
+Epoch: 89 cost time: 0.9164 s
+Train Loss*     : 0.0552 | Train Acc     : 0.9769
+
+Epoch: 90 cost time: 0.8772 s
+Train Loss*     : 0.0398 | Train Acc     : 0.9835
+Valid Loss     : 0.0492 | Valid Acc     : 0.9798
+Validation loss decreased (0.054200 --> 0.049200).  Saving model ...
+
+Epoch: 91 cost time: 0.6846 s
+Train Loss*     : 0.0442 | Train Acc     : 0.9821
+
+Epoch: 92 cost time: 0.9932 s
+Train Loss*     : 0.0433 | Train Acc     : 0.9819
+
+Epoch: 93 cost time: 0.7531 s
+Train Loss*     : 0.0435 | Train Acc     : 0.9828
+
+Epoch: 94 cost time: 1.1232 s
+Train Loss*     : 0.0416 | Train Acc     : 0.9830
+
+Epoch: 95 cost time: 1.0888 s
+Train Loss*     : 0.0414 | Train Acc     : 0.9823
+
+Epoch: 96 cost time: 0.7138 s
+Train Loss*     : 0.0434 | Train Acc     : 0.9823
+
+Epoch: 97 cost time: 1.0564 s
+Train Loss*     : 0.0428 | Train Acc     : 0.9837
+
+Epoch: 98 cost time: 0.9396 s
+Train Loss*     : 0.0414 | Train Acc     : 0.9835
+
+Epoch: 99 cost time: 0.8640 s
+Train Loss*     : 0.0440 | Train Acc     : 0.9812
+
+Epoch: 100 cost time: 0.8551 s
+Train Loss*     : 0.0402 | Train Acc     : 0.9833
+Valid Loss     : 0.0569 | Valid Acc     : 0.9752
+EarlyStopping counter: 1 out of 4
+
+Epoch: 101 cost time: 0.6476 s
+Train Loss*     : 0.0457 | Train Acc     : 0.9806
+
+Epoch: 102 cost time: 1.0573 s
+Train Loss*     : 0.0383 | Train Acc     : 0.9844
+
+Epoch: 103 cost time: 0.9219 s
+Train Loss*     : 0.0414 | Train Acc     : 0.9814
+
+Epoch: 104 cost time: 1.0019 s
+Train Loss*     : 0.0398 | Train Acc     : 0.9837
+
+Epoch: 105 cost time: 0.8814 s
+Train Loss*     : 0.0396 | Train Acc     : 0.9833
+
+Epoch: 106 cost time: 0.8103 s
+Train Loss*     : 0.0420 | Train Acc     : 0.9814
+
+Epoch: 107 cost time: 0.8925 s
+Train Loss*     : 0.0407 | Train Acc     : 0.9837
+
+Epoch: 108 cost time: 0.9116 s
+Train Loss*     : 0.0397 | Train Acc     : 0.9852
+
+Epoch: 109 cost time: 0.7711 s
+Train Loss*     : 0.0438 | Train Acc     : 0.9821
+
+Epoch: 110 cost time: 0.9611 s
+Train Loss*     : 0.0461 | Train Acc     : 0.9807
+Valid Loss     : 0.0635 | Valid Acc     : 0.9733
+EarlyStopping counter: 2 out of 4
+
+Epoch: 111 cost time: 0.8102 s
+Train Loss*     : 0.0425 | Train Acc     : 0.9823
+
+Epoch: 112 cost time: 0.7745 s
+Train Loss*     : 0.0426 | Train Acc     : 0.9819
+
+Epoch: 113 cost time: 0.8198 s
+Train Loss*     : 0.0409 | Train Acc     : 0.9837
+
+Epoch: 114 cost time: 0.9291 s
+Train Loss*     : 0.0392 | Train Acc     : 0.9837
+
+Epoch: 115 cost time: 0.8561 s
+Train Loss*     : 0.0397 | Train Acc     : 0.9839
+
+Epoch: 116 cost time: 1.0575 s
+Train Loss*     : 0.0428 | Train Acc     : 0.9814
+
+Epoch: 117 cost time: 1.0565 s
+Train Loss*     : 0.0406 | Train Acc     : 0.9823
+
+Epoch: 118 cost time: 1.1324 s
+Train Loss*     : 0.0417 | Train Acc     : 0.9814
+
+Epoch: 119 cost time: 0.8449 s
+Train Loss*     : 0.0461 | Train Acc     : 0.9809
+
+Epoch: 120 cost time: 1.0055 s
+Train Loss*     : 0.0434 | Train Acc     : 0.9816
+Valid Loss     : 0.0571 | Valid Acc     : 0.9791
+EarlyStopping counter: 3 out of 4
+
+Epoch: 121 cost time: 0.9950 s
+Train Loss*     : 0.0429 | Train Acc     : 0.9825
+
+Epoch: 122 cost time: 0.9969 s
+Train Loss*     : 0.0411 | Train Acc     : 0.9844
+
+Epoch: 123 cost time: 0.8859 s
+Train Loss*     : 0.0400 | Train Acc     : 0.9814
+
+Epoch: 124 cost time: 1.0670 s
+Train Loss*     : 0.0426 | Train Acc     : 0.9821
+
+Epoch: 125 cost time: 1.0090 s
+Train Loss*     : 0.0407 | Train Acc     : 0.9826
+
+Epoch: 126 cost time: 0.8957 s
+Train Loss*     : 0.0465 | Train Acc     : 0.9785
+
+Epoch: 127 cost time: 1.0818 s
+Train Loss*     : 0.0464 | Train Acc     : 0.9806
+
+Epoch: 128 cost time: 1.0522 s
+Train Loss*     : 0.0427 | Train Acc     : 0.9830
+
+Epoch: 129 cost time: 0.9319 s
+Train Loss*     : 0.0404 | Train Acc     : 0.9833
+
+Epoch: 130 cost time: 1.0129 s
+Train Loss*     : 0.0382 | Train Acc     : 0.9847
+Valid Loss     : 0.0677 | Valid Acc     : 0.9726
+EarlyStopping counter: 4 out of 4
+
+Early stopping
+
+################## Training is Done! #########################
+Test:
+Loss:    0.1731
+Acc:    94.4350 | maf1:    94.3882 | mif1:    94.4350 | wf1:    94.4154
+
+Training time is : 0:02:07.689129
+
+
+

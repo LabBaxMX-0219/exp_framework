@@ -1,0 +1,319 @@
+
+nohup: ignoring input
+input cmd is:
+	...python main.py --device cuda:0 --logs_save_dir /home/HaotianF/Exp/Results --experiment_description TS2Vec --method_name TS2Vec --run_description Electricity --training_mode self_supervised --seed 123 --selected_dataset Electricity
+
+=============================================
+Dataset: Electricity
+Method:  TS2Vec
+Mode:    self_supervised
+=============================================
+Training started ....
+
+Epoch: 1 cost time: 65.7486 s
+Train Loss     : 1.3411
+
+Epoch: 2 cost time: 57.9448 s
+Train Loss     : 0.4778
+Valid Loss     : 0.5196
+Validation loss decreased (inf --> 0.519647).  Saving model ...
+
+Epoch: 3 cost time: 49.4958 s
+Train Loss     : 0.3408
+
+Epoch: 4 cost time: 46.5484 s
+Train Loss     : 0.2819
+Valid Loss     : 0.3292
+Validation loss decreased (0.519647 --> 0.329176).  Saving model ...
+
+Epoch: 5 cost time: 40.2162 s
+Train Loss     : 0.2608
+
+Epoch: 6 cost time: 38.1156 s
+Train Loss     : 0.1958
+Valid Loss     : 0.2020
+Validation loss decreased (0.329176 --> 0.202037).  Saving model ...
+
+Epoch: 7 cost time: 36.3848 s
+Train Loss     : 0.1676
+
+Epoch: 8 cost time: 33.6123 s
+Train Loss     : 0.1477
+Valid Loss     : 0.1316
+Validation loss decreased (0.202037 --> 0.131619).  Saving model ...
+
+Epoch: 9 cost time: 33.1872 s
+Train Loss     : 0.1339
+
+Epoch: 10 cost time: 32.2961 s
+Train Loss     : 0.1232
+Valid Loss     : 0.1878
+EarlyStopping counter: 1 out of 4
+
+Epoch: 11 cost time: 29.4954 s
+Train Loss     : 0.1010
+
+Epoch: 12 cost time: 28.1793 s
+Train Loss     : 0.1336
+Valid Loss     : 0.2052
+EarlyStopping counter: 2 out of 4
+
+Epoch: 13 cost time: 27.6309 s
+Train Loss     : 0.0841
+
+Epoch: 14 cost time: 28.6016 s
+Train Loss     : 0.1154
+Valid Loss     : 0.0961
+Validation loss decreased (0.131619 --> 0.096149).  Saving model ...
+
+Epoch: 15 cost time: 25.1073 s
+Train Loss     : 0.0997
+
+Epoch: 16 cost time: 24.3615 s
+Train Loss     : 0.0679
+Valid Loss     : 0.0965
+EarlyStopping counter: 1 out of 4
+
+Epoch: 17 cost time: 26.0116 s
+Train Loss     : 0.0757
+
+Epoch: 18 cost time: 25.2233 s
+Train Loss     : 0.0667
+Valid Loss     : 0.1224
+EarlyStopping counter: 2 out of 4
+
+Epoch: 19 cost time: 23.4089 s
+Train Loss     : 0.0620
+
+Epoch: 20 cost time: 24.2102 s
+Train Loss     : 0.0791
+Valid Loss     : 0.0948
+Validation loss decreased (0.096149 --> 0.094760).  Saving model ...
+
+Epoch: 21 cost time: 23.8460 s
+Train Loss     : 0.1183
+
+Epoch: 22 cost time: 24.3445 s
+Train Loss     : 0.0540
+Valid Loss     : 0.0624
+Validation loss decreased (0.094760 --> 0.062445).  Saving model ...
+
+Epoch: 23 cost time: 23.8250 s
+Train Loss     : 0.0586
+
+Epoch: 24 cost time: 23.5755 s
+Train Loss     : 0.0524
+Valid Loss     : 0.0739
+EarlyStopping counter: 1 out of 4
+
+Epoch: 25 cost time: 24.3144 s
+Train Loss     : 0.0384
+
+Epoch: 26 cost time: 23.2966 s
+Train Loss     : 0.0404
+Valid Loss     : 0.0520
+Validation loss decreased (0.062445 --> 0.051958).  Saving model ...
+
+Epoch: 27 cost time: 23.5962 s
+Train Loss     : 0.0633
+
+Epoch: 28 cost time: 22.0707 s
+Train Loss     : 0.0456
+Valid Loss     : 0.0779
+EarlyStopping counter: 1 out of 4
+
+Epoch: 29 cost time: 22.5229 s
+Train Loss     : 0.0582
+
+Epoch: 30 cost time: 22.8967 s
+Train Loss     : 0.0657
+Valid Loss     : 0.0744
+EarlyStopping counter: 2 out of 4
+
+Epoch: 31 cost time: 22.0208 s
+Train Loss     : 0.0824
+
+Epoch: 32 cost time: 22.7670 s
+Train Loss     : 0.0460
+Valid Loss     : 0.1137
+EarlyStopping counter: 3 out of 4
+
+Epoch: 33 cost time: 23.3312 s
+Train Loss     : 0.0524
+
+Epoch: 34 cost time: 23.8528 s
+Train Loss     : 0.0386
+Valid Loss     : 0.0587
+EarlyStopping counter: 4 out of 4
+
+Early stopping
+
+################## Training is Done! #########################
+Training time is : 0:18:12.840821
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nohup: ignoring input
+input cmd is:
+	...python main.py --device cuda:0 --logs_save_dir /home/HaotianF/Exp/Results --experiment_description TS2Vec --method_name TS2Vec --run_description Electricity --training_mode train_linear --seed 123 --selected_dataset Electricity
+
+=============================================
+Dataset: Electricity
+Method:  TS2Vec
+Mode:    train_linear
+=============================================
+preparing exp...
+
+linear model mounted on device: cuda:0
+
+loading raw time series...
+
+generate time series samples...
+
+time series batch encoding..
+
+Training started ....
+
+Epoch: 1 cost time: 67.2542 s
+Train MSE Loss*    : 0.2760 | Train MAE Loss     : 0.3708
+
+Epoch: 2 cost time: 65.2371 s
+Train MSE Loss*    : 0.2623 | Train MAE Loss     : 0.3599
+
+Epoch: 3 cost time: 66.2879 s
+Train MSE Loss*    : 0.2603 | Train MAE Loss     : 0.3583
+
+Epoch: 4 cost time: 69.0725 s
+Train MSE Loss*    : 0.2594 | Train MAE Loss     : 0.3576
+
+Epoch: 5 cost time: 70.6074 s
+Train MSE Loss*    : 0.2589 | Train MAE Loss     : 0.3571
+Valid MSE Loss*     : 0.2589 | Valid MAE Loss     : 0.3526
+Validation loss decreased (inf --> 0.258900).  Saving model ...
+
+Epoch: 6 cost time: 73.8048 s
+Train MSE Loss*    : 0.2585 | Train MAE Loss     : 0.3568
+
+Epoch: 7 cost time: 70.9420 s
+Train MSE Loss*    : 0.2582 | Train MAE Loss     : 0.3566
+
+Epoch: 8 cost time: 68.8809 s
+Train MSE Loss*    : 0.2580 | Train MAE Loss     : 0.3564
+
+Epoch: 9 cost time: 72.7115 s
+Train MSE Loss*    : 0.2579 | Train MAE Loss     : 0.3563
+
+Epoch: 10 cost time: 70.3482 s
+Train MSE Loss*    : 0.2578 | Train MAE Loss     : 0.3562
+Valid MSE Loss*     : 0.2578 | Valid MAE Loss     : 0.3518
+Validation loss decreased (0.258900 --> 0.257800).  Saving model ...
+
+Epoch: 11 cost time: 66.1191 s
+Train MSE Loss*    : 0.2577 | Train MAE Loss     : 0.3561
+
+Epoch: 12 cost time: 64.7759 s
+Train MSE Loss*    : 0.2576 | Train MAE Loss     : 0.3561
+
+Epoch: 13 cost time: 65.5934 s
+Train MSE Loss*    : 0.2576 | Train MAE Loss     : 0.3560
+
+Epoch: 14 cost time: 68.3302 s
+Train MSE Loss*    : 0.2575 | Train MAE Loss     : 0.3559
+
+Epoch: 15 cost time: 71.7791 s
+Train MSE Loss*    : 0.2575 | Train MAE Loss     : 0.3559
+Valid MSE Loss*     : 0.2575 | Valid MAE Loss     : 0.352
+Validation loss decreased (0.257800 --> 0.257500).  Saving model ...
+
+Epoch: 16 cost time: 67.0875 s
+Train MSE Loss*    : 0.2575 | Train MAE Loss     : 0.3559
+
+Epoch: 17 cost time: 66.2480 s
+Train MSE Loss*    : 0.2574 | Train MAE Loss     : 0.3559
+
+Epoch: 18 cost time: 71.4840 s
+Train MSE Loss*    : 0.2574 | Train MAE Loss     : 0.3558
+
+Epoch: 19 cost time: 74.9598 s
+Train MSE Loss*    : 0.2574 | Train MAE Loss     : 0.3559
+
+Epoch: 20 cost time: 69.0307 s
+Train MSE Loss*    : 0.2574 | Train MAE Loss     : 0.3559
+Valid MSE Loss*     : 0.2574 | Valid MAE Loss     : 0.3519
+EarlyStopping counter: 1 out of 4
+
+Epoch: 21 cost time: 71.6367 s
+Train MSE Loss*    : 0.2574 | Train MAE Loss     : 0.3558
+
+Epoch: 22 cost time: 61.9938 s
+Train MSE Loss*    : 0.2574 | Train MAE Loss     : 0.3558
+
+Epoch: 23 cost time: 66.1177 s
+Train MSE Loss*    : 0.2574 | Train MAE Loss     : 0.3558
+
+Epoch: 24 cost time: 71.5652 s
+Train MSE Loss*    : 0.2573 | Train MAE Loss     : 0.3558
+
+Epoch: 25 cost time: 67.8518 s
+Train MSE Loss*    : 0.2574 | Train MAE Loss     : 0.3558
+Valid MSE Loss*     : 0.2574 | Valid MAE Loss     : 0.3533
+EarlyStopping counter: 2 out of 4
+
+Epoch: 26 cost time: 66.6366 s
+Train MSE Loss*    : 0.2573 | Train MAE Loss     : 0.3558
+
+Epoch: 27 cost time: 68.4648 s
+Train MSE Loss*    : 0.2573 | Train MAE Loss     : 0.3558
+
+Epoch: 28 cost time: 72.7856 s
+Train MSE Loss*    : 0.2573 | Train MAE Loss     : 0.3558
+
+Epoch: 29 cost time: 70.3592 s
+Train MSE Loss*    : 0.2573 | Train MAE Loss     : 0.3558
+
+Epoch: 30 cost time: 68.2699 s
+Train MSE Loss*    : 0.2574 | Train MAE Loss     : 0.3558
+Valid MSE Loss*     : 0.2574 | Valid MAE Loss     : 0.3504
+EarlyStopping counter: 3 out of 4
+
+Epoch: 31 cost time: 71.3767 s
+Train MSE Loss*    : 0.2573 | Train MAE Loss     : 0.3558
+
+Epoch: 32 cost time: 65.6655 s
+Train MSE Loss*    : 0.2573 | Train MAE Loss     : 0.3558
+
+Epoch: 33 cost time: 72.7929 s
+Train MSE Loss*    : 0.2573 | Train MAE Loss     : 0.3558
+
+Epoch: 34 cost time: 73.1246 s
+Train MSE Loss*    : 0.2573 | Train MAE Loss     : 0.3558
+
+Epoch: 35 cost time: 68.2086 s
+Train MSE Loss*    : 0.2574 | Train MAE Loss     : 0.3558
+Valid MSE Loss*     : 0.2574 | Valid MAE Loss     : 0.3514
+EarlyStopping counter: 4 out of 4
+
+Early stopping
+
+################## Training is Done! #########################
+Traceback (most recent call last):
+  File "/home/HaotianF/Exp/Ours/baselines/exp_framwork/main.py", line 101, in <module>
+    exp.evaluation(flag="test")
+  File "/home/HaotianF/Exp/Ours/baselines/exp_framwork/train/tasks/forecasting/exp_TS2Vec.py", line 147, in evaluation
+    logger.debug(f'Test:\nMSE Loss:    {eval_avg_MSE_loss:.4f}\nMAE Loss:    {eval_avg_MAE_loss:.4f}\n')
+    ^^^^^^
+NameError: name 'logger' is not defined

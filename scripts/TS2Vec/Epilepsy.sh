@@ -1,0 +1,3 @@
+conda activate DL; cd /home/HaotianF/Exp/Ours/baselines/exp_framwork; nohup python main.py --device cuda:0 --logs_save_dir /home/HaotianF/Exp/Results --experiment_description TS2Vec --method_name TS2Vec --run_description Epilepsy --training_mode self_supervised --seed 123 --selected_dataset Epilepsy >> TS2Vec_Epilepsy.log 2>&1 &
+
+conda activate DL; cd /home/HaotianF/Exp/Ours/baselines/exp_framwork; nohup python main.py --device cuda:0 --logs_save_dir /home/HaotianF/Exp/Results --experiment_description TS2Vec --method_name TS2Vec --run_description Epilepsy --training_mode train_linear --seed 123 --selected_dataset Epilepsy >> TS2Vec_Epilepsy.log 2>&1 &
