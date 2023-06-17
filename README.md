@@ -5,6 +5,8 @@ time series representation learning, self-supervised, forecasting &amp; classifi
 rs_methods.zip -> Results/methods/*
 
 # Workspace
+```txt
 exp_framework/*
 Data/dataset_name_folder/*
 Results/method_name_folder/*
+```
